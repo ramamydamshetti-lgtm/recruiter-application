@@ -1,0 +1,106 @@
+{
+  "allowlisted_senders": [
+    "rkarnam@metaforgeit.com"
+  ],
+  "allowed_domains": [
+    "ltts.com",
+    "itcinfotech.com",
+    "kpmg.com",
+    "iexcel.co.in",
+    "eximietas.com",
+    "idexcel.com"
+  ],
+  "domain_client_mapping": {
+    "ltts.com": "LTTS",
+    "itcinfotech.com": "ITC Infotech",
+    "kpmg.com": "KPMG",
+    "iexcel.co.in": "Accenture",
+    "eximietas.com": "PwC"
+  },
+  "ambiguous_domain_markers": {
+    "idexcel.com": [
+      {
+        "patterns": [
+          "\\b[dD][\\s\\.\\-–_]*Client\\b",
+          "\\b[dD]\\s*[-–]?\\s*Client\\b",
+          "\\b[dD]Client\\b"
+        ],
+        "client": "Deloitte",
+        "key": "deloitte"
+      },
+      {
+        "patterns": [
+          "\\b[pP][\\s\\.\\-–_]*Client\\b",
+          "\\b[pP]\\s*[-–]?\\s*Client\\b",
+          "\\b[pP]Client\\b"
+        ],
+        "client": "PwC",
+        "key": "pwc"
+      }
+    ]
+  },
+  "unresolved_idexcel_client": {
+    "display_name": "unresolved",
+    "key": "idexcel_unresolved"
+  },
+  "status_keywords": {
+    "hold": [
+      "hold",
+      "on hold",
+      "kindly hold",
+      "don't work",
+      "dont work",
+      "do not work",
+      "stop work",
+      "stop sourcing",
+      "pause",
+      "put on hold",
+      "hold on",
+      "hold this requirement",
+      "pause this requirement",
+      "stop sharing profiles",
+      "stop profile submission",
+      "stop profile submissions",
+      "hold profile submission",
+      "hold profile submissions"
+    ],
+    "closed": [
+      "closed",
+      "close requirement",
+      "cancel",
+      "cancelled",
+      "filled",
+      "position filled",
+      "requirement closed"
+    ],
+    "reopen": [
+      "reopen",
+      "re-open",
+      "resume",
+      "resume sourcing",
+      "resume requirement",
+      "active again",
+      "please proceed again",
+      "re-opened",
+      "reactivate"
+    ]
+  },
+  "jd_structure_markers": [
+    "role title:",
+    "job title:",
+    "position:",
+    "job summary",
+    "key responsibilities",
+    "role purpose",
+    "must have",
+    "nice to have",
+    "primary skills",
+    "secondary skills",
+    "key skills",
+    "skills and experience",
+    "required skills",
+    "experience required",
+    "desired profile",
+    "job description"
+  ]
+}

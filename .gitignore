@@ -1,0 +1,64 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment files
+.env
+.env.*
+**/.env
+**/.env.*
+!.env.example
+!**/.env.example
+!**/.env.local.example
+
+# Build folders
+.next/
+dist/
+build/
+out/
+**/tsconfig.tsbuildinfo
+
+# Local environments and archives
+**/.venv/
+**/venv/
+*.zip
+
+# Candidate records, uploads, and database backups
+/backups/
+/data/
+/backend/data/
+/backend/uploads/
+/backend/import_archive/
+/backend/import_data_dump/
+/backend/database/avatars/
+/backend/database/requirement-email-sources/
+/backend/database/resumes/
+/reports/
+/deploy/certs/
+**/*.csv
+**/*.pdf
+**/*.xls
+**/*.xlsx
+**/metaforge_consolidated_*.json
+**/latest_500_all.json
+*.db
+*.dump
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE files
+.vscode/
+.idea/
+.cursor/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+{
+  admin off
+}
+# HTTP-only reverse proxy — matches the config that worked for recruiters.
+# Start AFTER Next.js is on :3000. Service install: install-all-services.ps1
+
+http://myapps.taskforge.com {
+	reverse_proxy 127.0.0.1:3000
+}
+
+http://www.myapps.taskforge.com {
+	reverse_proxy 127.0.0.1:3000
+}
+
+http://192.168.1.10, http://192.168.1.168 {
+	reverse_proxy 127.0.0.1:3000
+}

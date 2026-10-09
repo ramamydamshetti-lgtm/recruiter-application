@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Professional navy-led palette (MetaForge) */
+  --background: #f4f6fb;
+  --foreground: #0f172a;
+  --card-bg: #ffffff;
+  --border: #e2e8f0;
+  --primary: #1e3a5f;
+  --primary-hover: #152a45;
+  --accent: #7c2d3a;
+  --accent-soft: #f5ecee;
+  --success: #0d9488;
+  --warning: #d97706;
+  --danger: #b91c1c;
+  --muted: #64748b;
+}
+
+.dark {
+  --background: #0b1120;
+  --foreground: #f1f5f9;
+  --card-bg: #111827;
+  --border: #1f2937;
+  --primary: #3d5a80;
+  --primary-hover: #4a6fa5;
+  --accent: #c08497;
+  --accent-soft: #2a1a1f;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+    font-feature-settings:
+      'rlig' 1,
+      'calt' 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1,
+  h2,
+  h3,
+  .font-display {
+    font-family: var(--font-display), var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+    letter-spacing: -0.02em;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Tracker table: plain black text in all body cells (UI preview). */
+.tracker-table td,
+.tracker-table td *,
+.tracker-table td input {
+  color: #000000 !important;
+  background-color: transparent !important;
+  font-weight: normal !important;
+}
+
+/* Client-side deterrence: no text selection on app chrome/data views */
+body.content-protected {
+  -webkit-touch-callout: none;
+}
+
+body.content-protected,
+body.content-protected *:not(input):not(textarea):not(select):not([contenteditable='true']) {
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+body.content-protected input,
+body.content-protected textarea,
+body.content-protected select,
+body.content-protected [contenteditable='true'] {
+  -webkit-user-select: text;
+  user-select: text;
+}

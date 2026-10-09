@@ -1,0 +1,10 @@
+{
+  "total_emails_received_today": 16,
+  "total_with_pdf_attachments": 0,
+  "rejected_layer1_sender_not_allowlisted": 9,
+  "rejected_layer2_no_requirement_structure": 3,
+  "passed_both_gates": 4,
+  "classified_REQUIREMENT": 3,
+  "classified_NOT_A_REQUIREMENT": 1,
+  "errors": 0
+}

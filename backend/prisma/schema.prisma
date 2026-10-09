@@ -1,0 +1,500 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// Client Management
+model Client {
+  id        String   @id @default(dbgenerated("generate_client_pk()"))
+  clientCode String? @unique @map("client_code")
+  name      String
+  pocName   String   @map("poc_name")
+  pocEmail  String   @map("poc_email")
+  pocPhone  String?  @map("poc_phone")
+  industry  String?
+  location  String?
+  isActive  Boolean  @default(true) @map("is_active")
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  // Relations
+  requirements Requirement[]
+  submissions  Submission[]
+
+  @@map("clients")
+}
+
+// Job Requirements (Client Demands)
+model Requirement {
+  id                 String                      @id @default(dbgenerated("generate_requirement_pk()"))
+  requirementId      String                      @unique @map("requirement_id") // REQ-2026-02-19-001
+  clientId           String                      @map("client_id")
+  clientLeadPoc      String                      @map("client_lead_poc")
+  clientPoc          String?                     @map("client_poc")
+  roleTitle          String                      @map("role_title")
+  location           String
+  experience         String?
+  experienceLevel    String?                     @map("experience_level")
+  employmentType    String?                     @map("employment_type")
+  workMode          String?                     @map("work_mode")
+  /// ISO 4217 code; amounts below are in this currency (default INR).
+  budgetCurrency    String                      @default("INR") @map("budget_currency")
+  /// Legacy mirror: same unit as yearly/monthly (whole currency units, e.g. INR).
+  overallBudget     Float?                      @map("overall_budget")
+  /// Full-time: yearly compensation in `budgetCurrency` (e.g. INR per year).
+  yearlyBudget      Float?                      @map("yearly_budget_inr")
+  /// Contract: monthly compensation in `budgetCurrency` (e.g. INR per month).
+  monthlyBudget     Float?                      @map("monthly_budget_inr")
+  noticePeriod       String?                     @map("notice_period")
+  skills             String[]
+  technologies       String[]
+  priority           RequirementPriority         @default(MEDIUM)
+  openPositions      Int?                        @map("open_positions")
+  slaDays            Int                         @default(10) @map("sla_days")
+  submittingTo       String?                     @map("submitting_to")
+  internalPoc        String?                     @map("internal_poc") // internal hiring POC (Create Job Demand)
+  demandType         String?                     @map("demand_type") // Single | Multiple | Bulk
+  closedDate         DateTime?                   @map("closed_date") // when status is Closed
+  status             RequirementStatus           @default(OPEN)
+  assignment         RequirementAssignmentStatus @default(UNASSIGNED)
+  /// Display: who created this requirement (no user FK).
+  requirementCreatorName   String?               @map("requirement_creator_name")
+  /// Display: recruiter the demand is assigned to (no user FK).
+  assignedToRecruiterName  String?               @map("assigned_to_recruiter_name")
+  /// Display: who performed the assignment action (no user FK).
+  assignmentAssignerName   String?               @map("assignment_assigner_name")
+  sourceEmailGraphMessageId    String?           @map("source_email_graph_message_id")
+  sourceEmailInternetMessageId String?           @map("source_email_internet_message_id")
+  sourceEmailMailbox           String?           @map("source_email_mailbox")
+  sourceEmailSubject           String?           @map("source_email_subject")
+  submissionsCount   Int                         @default(0) @map("submissions_count")
+  isDeleted          Boolean                     @default(false) @map("is_deleted")
+  deletedAt          DateTime?                   @map("deleted_at")
+  createdAt          DateTime                    @default(now()) @map("created_at")
+  updatedAt          DateTime                    @updatedAt @map("updated_at")
+
+  // Relations
+  client      Client                  @relation(fields: [clientId], references: [id], onDelete: Cascade)
+  assignments RequirementAssignment[] @relation("RequirementAssignments")
+  submissions Submission[]
+  activities  RequirementActivity[]
+  communicationLogs CommunicationLog[]
+
+  @@index([sourceEmailGraphMessageId])
+  @@map("requirements")
+}
+
+// Candidate Profiles
+model Candidate {
+  id                String   @id @default(cuid())
+  /// Human-readable id for reports and exports (e.g. CND-2026-04-01-042). Distinct from internal `id` when present.
+  candidateRef      String?  @unique @map("candidate_ref")
+  name              String
+  email             String   @unique
+  phone             String?
+  phoneNormalized   String?  @map("phone_normalized")
+  currentCompany    String?  @map("current_company")
+  experienceLabel   String?  @map("experience_label")
+  totalExperience   Int?     @map("total_experience")
+  skills            String[]
+  technologies      String[]
+  education         String[]
+  currentLocation   String?  @map("current_location")
+  preferredLocation String?  @map("preferred_location")
+  noticePeriod      String?  @map("notice_period")
+  currentSalary     String?  @map("current_salary")
+  expectedSalary    String?  @map("expected_salary")
+  linkedinUrl       String?  @map("linkedin_url")
+  highestQualification String? @map("highest_qualification")
+  availableForInterview String? @map("available_for_interview")
+  reasonForJobChange String? @map("reason_for_job_change")
+  offerInHand       String?  @map("offer_in_hand")
+  offerInHandAmount String?  @map("offer_in_hand_amount")
+  offerInHandCompany String? @map("offer_in_hand_company")
+  offerInHandDetails Json?   @map("offer_in_hand_details")
+  relevantExperience String? @map("relevant_experience")
+  resumeUrl         String?  @map("resume_url")
+  sourcePlatform    String?  @map("source_platform") // Naukri/LinkedIn/Internal/Referral
+  sourcePlatformId  String?  @map("source_platform_id") // External platform candidate ID
+  notes             String?  @map("notes") // recruiter internal notes
+  isActive          Boolean  @default(true) @map("is_active")
+  createdById       String?  @map("created_by")
+  createdAt         DateTime @default(now()) @map("created_at")
+  updatedAt         DateTime @updatedAt @map("updated_at")
+
+  // Relations
+  submissions Submission[]
+  createdBy   User?        @relation("CandidateCreatedBy", fields: [createdById], references: [id])
+
+  @@index([phoneNormalized])
+  @@index([createdById])
+  @@map("candidates")
+}
+
+// Candidate Submissions to Client Requirements
+model Submission {
+  id                 String           @id @default(dbgenerated("generate_submission_pk()"))
+  /// Legacy mirror of `id` (SUB-001); kept for older clients / exports.
+  submissionRef      String?          @unique @map("submission_ref")
+  requirementId      String           @map("requirement_id")
+  candidateId        String           @map("candidate_id")
+  submittedBy        String           @map("submitted_by")
+  submittedOn        DateTime         @default(now()) @map("submitted_on")
+  status             SubmissionStatus @default(SUBMITTED)
+  reasonForJobChange String?          @map("reason_for_job_change")
+  offerInHand        String?          @map("offer_in_hand")
+  offerInHandAmount  String?          @map("offer_in_hand_amount")
+  offerInHandCompany String?          @map("offer_in_hand_company")
+  offerInHandDetails Json?            @map("offer_in_hand_details")
+  relevantExperience String?          @map("relevant_experience")
+  soNumber           String?          @map("so_number")
+  clientFeedback     String?          @map("client_feedback")
+  clientDecisionDate DateTime?        @map("client_decision_date")
+  interviewDate      DateTime?        @map("interview_date")
+  interviewLocation  String?          @map("interview_location")
+  interviewType      InterviewType?   @map("interview_type")
+  selectedDate       DateTime?        @map("selected_date")
+  rejectionReason    String?          @map("rejection_reason")
+  emailSent          Boolean          @default(false) @map("email_sent")
+  emailSentDate      DateTime?        @map("email_sent_date")
+  assignedLeadId     String?          @map("assigned_lead_id")
+  assignedLeadName   String?          @map("assigned_lead_name")
+  forwardedBy        String?          @map("forwarded_by")
+  forwardedOn        DateTime?        @map("forwarded_on")
+  createdAt          DateTime         @default(now()) @map("created_at")
+  updatedAt          DateTime         @updatedAt @map("updated_at")
+
+  // Relations
+  requirement Requirement @relation(fields: [requirementId], references: [id], onDelete: Cascade)
+  candidate   Candidate   @relation(fields: [candidateId], references: [id], onDelete: Cascade)
+  submitter   User        @relation(fields: [submittedBy], references: [id])
+  assignedLead User?      @relation("SubmissionAssignedLead", fields: [assignedLeadId], references: [id], onDelete: SetNull)
+  forwarder    User?      @relation("SubmissionForwardedBy", fields: [forwardedBy], references: [id], onDelete: SetNull)
+  Client      Client?     @relation(fields: [clientId], references: [id])
+  clientId    String?
+  interviews   Interview[]
+  interviewRounds InterviewRound[]
+  offerLetter  OfferLetter?
+  offerMgmt    OfferManagement?
+  statusHistory CandidateStatusHistory[]
+  communicationLogs CommunicationLog[]
+
+  @@unique([candidateId, requirementId])
+  @@map("submissions")
+}
+
+/// Audit trail for submission status transitions (dual-written with legacy RequirementActivity summaries).
+model CandidateStatusHistory {
+  id           String    @id @default(cuid())
+  submissionId String    @map("submission_id")
+  oldStatus    String?   @map("old_status")
+  newStatus    String    @map("new_status")
+  changedById  String?   @map("changed_by_id")
+  reason       String?   @db.Text
+  metadata     Json?
+  createdAt    DateTime  @default(now()) @map("created_at")
+
+  submission Submission @relation(fields: [submissionId], references: [id], onDelete: Cascade)
+  changedBy  User?      @relation("CandidateStatusHistoryActor", fields: [changedById], references: [id], onDelete: SetNull)
+
+  @@index([submissionId])
+  @@map("candidate_status_history")
+}
+
+enum InterviewRoundType {
+  L1
+  L2
+  FINAL
+}
+
+/// Spec-named interview rounds table (dual-written alongside legacy `Interview`).
+model InterviewRound {
+  id                   String            @id @default(cuid())
+  submissionId         String            @map("submission_id")
+  legacyInterviewId    String?           @unique @map("legacy_interview_id")
+  roundType            InterviewRoundType @map("round_type")
+  timezone             String?
+  interviewerName      String?           @map("interviewer_name")
+  interviewerEmail     String?           @map("interviewer_email")
+  mode                 String
+  status               String
+  scheduledAt          DateTime          @map("scheduled_at")
+  location             String?
+  meetingLink          String?           @map("meeting_link")
+  notes                String?
+  feedback             String?           @db.Text
+  rating               Int?
+  finalDecision        SubmissionStatus? @map("final_decision")
+  rescheduleCount      Int               @default(0) @map("reschedule_count")
+  rescheduleHistory    Json?             @map("reschedule_history")
+  rescheduleOfId       String?           @map("reschedule_of_id")
+  candidateConfirmedAt DateTime?         @map("candidate_confirmed_at")
+  createdAt            DateTime          @default(now()) @map("created_at")
+  updatedAt            DateTime          @updatedAt @map("updated_at")
+
+  submission   Submission      @relation(fields: [submissionId], references: [id], onDelete: Cascade)
+  rescheduleOf InterviewRound? @relation("InterviewRoundReschedule", fields: [rescheduleOfId], references: [id], onDelete: SetNull)
+  reschedules  InterviewRound[] @relation("InterviewRoundReschedule")
+
+  @@index([submissionId])
+  @@map("interview_rounds")
+}
+
+/// Spec-named offer record (dual-written alongside legacy `OfferLetter`).
+model OfferManagement {
+  id                  String            @id @default(cuid())
+  submissionId        String            @unique @map("submission_id")
+  legacyOfferLetterId String?           @unique @map("legacy_offer_letter_id")
+  status              OfferLetterStatus @default(DRAFT)
+  offeredCtc          Decimal?          @map("offered_ctc") @db.Decimal(18, 2)
+  currency            String?
+  hrNotes             String?           @map("hr_notes") @db.Text
+  offerExpiryDate     DateTime?         @map("offer_expiry_date")
+  acceptedAt          DateTime?         @map("accepted_at")
+  declinedAt          DateTime?         @map("declined_at")
+  positionTitle       String?           @map("position_title")
+  compensation        String?
+  joiningDate         DateTime?         @map("joining_date")
+  createdAt           DateTime          @default(now()) @map("created_at")
+  updatedAt           DateTime          @updatedAt @map("updated_at")
+
+  submission Submission @relation(fields: [submissionId], references: [id], onDelete: Cascade)
+
+  @@map("offer_management")
+}
+
+enum CommunicationLogStatus {
+  QUEUED
+  SENT
+  FAILED
+}
+
+model CommunicationLog {
+  id                 String                 @id @default(cuid())
+  type               String
+  recipient          String
+  subject            String?
+  status             CommunicationLogStatus
+  providerMessageId  String?                @map("provider_message_id")
+  requirementId      String?                @map("requirement_id")
+  submissionId       String?                @map("submission_id")
+  body               String?                @db.Text
+  createdAt          DateTime               @default(now()) @map("created_at")
+
+  requirement Requirement? @relation(fields: [requirementId], references: [id], onDelete: Cascade)
+  submission  Submission?  @relation(fields: [submissionId], references: [id], onDelete: SetNull)
+
+  @@index([requirementId])
+  @@index([submissionId])
+  @@map("communication_logs")
+}
+
+// Interview Tracking (persisted interview schedule + outcomes)
+model Interview {
+  id            String   @id @default(dbgenerated("generate_interview_pk()"))
+  submissionId  String   @map("submission_id")
+  recruiterId   String   @map("recruiter_id")
+  round         String
+  mode          String
+  status        String
+  scheduledAt   DateTime @map("scheduled_at")
+  location      String?  @map("location")
+  meetingLink   String?  @map("meeting_link")
+  notes         String?
+  feedback      String?
+  rating        Int?
+  finalDecision SubmissionStatus? @map("final_decision")
+  createdAt     DateTime @default(now()) @map("created_at")
+  updatedAt     DateTime @updatedAt @map("updated_at")
+
+  submission Submission @relation(fields: [submissionId], references: [id], onDelete: Cascade)
+  recruiter  User       @relation(fields: [recruiterId], references: [id], onDelete: Cascade)
+
+  @@index([submissionId])
+  @@index([recruiterId])
+  @@map("interviews")
+}
+
+// Offer letter after final interview (one active record per submission)
+model OfferLetter {
+  id             String            @id @default(dbgenerated("generate_offer_letter_pk()"))
+  submissionId   String            @unique @map("submission_id")
+  status         OfferLetterStatus @default(DRAFT)
+  positionTitle  String?           @map("position_title")
+  compensation   String?
+  joiningDate    DateTime?         @map("joining_date")
+  validUntil     DateTime?         @map("valid_until")
+  terms          String?           @db.Text
+  letterContent  String?           @map("letter_content") @db.Text
+  releasedAt     DateTime?         @map("released_at")
+  releasedById   String?           @map("released_by_id")
+  /// When the candidate accepts, store the agreed joining date (internal).
+  acceptedJoiningDate DateTime?    @map("accepted_joining_date")
+  /// When the candidate declines the released offer, store their stated reason.
+  declineReason  String?           @map("decline_reason") @db.Text
+  createdAt      DateTime          @default(now()) @map("created_at")
+  updatedAt      DateTime          @updatedAt @map("updated_at")
+
+  submission Submission @relation(fields: [submissionId], references: [id], onDelete: Cascade)
+  releasedBy User?      @relation("OfferLetterReleasedBy", fields: [releasedById], references: [id], onDelete: SetNull)
+
+  @@map("offer_letters")
+}
+
+// Requirement Assignment Tracking
+model RequirementAssignment {
+  id            String           @id @default(dbgenerated("generate_requirement_assignment_pk()"))
+  requirementId String           @map("requirement_id")
+  recruiterId   String           @map("recruiter_id")
+  assignedBy    String           @map("assigned_by")
+  assignedOn    DateTime         @default(now()) @map("assigned_on")
+  status        AssignmentStatus @default(ACTIVE)
+  notes         String?
+  createdAt     DateTime         @default(now()) @map("created_at")
+  updatedAt     DateTime         @updatedAt @map("updated_at")
+
+  // Relations
+  requirement Requirement @relation("RequirementAssignments", fields: [requirementId], references: [id], onDelete: Cascade)
+  recruiter   User        @relation("AssignedRecruiter", fields: [recruiterId], references: [id])
+  assigner    User        @relation("AssignmentAssigner", fields: [assignedBy], references: [id])
+
+  @@map("requirement_assignments")
+}
+
+// Audit / activity feed for a requirement (UI: Activity Log on requirement detail)
+model RequirementActivity {
+  id             String   @id @default(dbgenerated("generate_requirement_activity_pk()"))
+  requirementId  String   @map("requirement_id")
+  actorId        String?  @map("actor_id")
+  action         String
+  summary        String
+  metadata       Json?
+  createdAt      DateTime @default(now()) @map("created_at")
+
+  requirement Requirement @relation(fields: [requirementId], references: [id], onDelete: Cascade)
+  actor       User?       @relation("RequirementActivityActor", fields: [actorId], references: [id], onDelete: SetNull)
+
+  @@index([requirementId])
+  @@map("requirement_activities")
+}
+
+model EmailIngestionEvent {
+  id              String   @id @default(cuid())
+  idempotencyKey  String   @unique @map("idempotency_key")
+  graphMessageId  String?  @map("graph_message_id")
+  internetMessageId String? @map("internet_message_id")
+  source          String   @default("EMAIL_AUTOMATION")
+  status          String   @default("PENDING")
+  errorMessage    String?  @map("error_message")
+  requirementPk   String?  @map("requirement_pk")
+  requirementCode String?  @map("requirement_code")
+  payload         Json?
+  createdAt       DateTime @default(now()) @map("created_at")
+  updatedAt       DateTime @updatedAt @map("updated_at")
+
+  @@index([graphMessageId])
+  @@index([status])
+  @@map("email_ingestion_events")
+}
+
+// Keep existing User model for authentication
+// No Prisma @default on id — CUID must never be generated; AuthService always sets id via allocateNextUserId() / DB generate_user_id() (user-001, …).
+model User {
+  id            String    @id
+  email         String    @unique
+  password      String
+  firstName     String
+  lastName      String
+  role          UserRole  @default(CANDIDATE)
+  avatar        String?
+  phone         String?
+  location      String?
+  bio           String?
+  submittingTo String?   @map("submitting_to")
+  isActive      Boolean   @default(true)
+  lastLoginAt   DateTime?
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  emailVerified Boolean   @default(false)
+  loginPreference String    @default("password") @map("login_preference")
+  verificationToken String?  @map("verification_token")
+  resetToken       String?  @map("reset_token")
+  resetTokenExpires DateTime? @map("reset_token_expires")
+  loginOtpHash      String?  @map("login_otp_hash")
+  loginOtpExpires   DateTime? @map("login_otp_expires")
+
+  // Relations
+  assignments           RequirementAssignment[] @relation("AssignedRecruiter")
+  submissionAssignments RequirementAssignment[] @relation("AssignmentAssigner")
+  submissions           Submission[]
+  interviews            Interview[]
+  requirementActivities RequirementActivity[] @relation("RequirementActivityActor")
+  offerLettersReleased  OfferLetter[]         @relation("OfferLetterReleasedBy")
+  candidateStatusChanges CandidateStatusHistory[] @relation("CandidateStatusHistoryActor")
+  createdCandidates     Candidate[]           @relation("CandidateCreatedBy")
+  assignedLeadSubmissions Submission[]        @relation("SubmissionAssignedLead")
+  forwardedSubmissions    Submission[]        @relation("SubmissionForwardedBy")
+
+  @@map("users")
+}
+
+// Enums for the new workflow
+enum RequirementPriority {
+  HIGH
+  MEDIUM
+  LOW
+}
+
+enum RequirementStatus {
+  OPEN
+  ASSIGNED
+  SUBMITTED
+  INTERVIEW
+  SELECTED
+  REJECTED
+  CLOSED
+}
+
+enum RequirementAssignmentStatus {
+  UNASSIGNED
+  ASSIGNED
+}
+
+enum SubmissionStatus {
+  SUBMITTED_TO_LEAD
+  SUBMITTED_TO_CLIENT
+  SUBMITTED
+  INTERVIEW
+  SELECTED
+  REJECTED
+}
+
+enum InterviewType {
+  PHONE
+  VIDEO
+  ONSITE
+}
+
+enum AssignmentStatus {
+  ACTIVE
+  REVOKED
+  COMPLETED
+}
+
+enum OfferLetterStatus {
+  DRAFT
+  RELEASED
+  ACCEPTED
+  DECLINED
+}
+
+enum UserRole {
+  ADMIN
+  RECRUITER
+  LEAD
+  CANDIDATE
+}

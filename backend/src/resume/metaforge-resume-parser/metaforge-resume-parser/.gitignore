@@ -1,0 +1,9 @@
+node_modules/
+.env
+test-resume.txt
+scripts/test-parse.mjs
+.env.local
+data/
+*.db
+*.log
+.DS_Store

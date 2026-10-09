@@ -1,0 +1,33 @@
+From: Manikandan A G <Manikandan.G@itcinfotech.com>
+Sent: Thursday, April 2, 2026 8:37:36 am
+Subject: ITCI Urgent Replacement SO# 0000245972
+
+Need min 5 immediate joiner profiles for this request today
+Max budget : 22LPA
+
+---
+From: Sai Kiran A <saikiran.a@metaforgeit.com>
+Sent: Thursday, April 2, 2026 8:57 AM
+Subject: Fw: ITCI Urgent Replacement SO# 0000245972
+
+Attached word file contains:
+Tool : Microsoft Defender for Endpoint and email security gateway
+Proofpoint/EOP� Mandatory
+Experience : Minimum 7 Years Exp MDE & Email Security
+Job Title : CyberSecurity Specialist
+Work : Work from office � 5 days a week
+Shift : 8*5
+Location : Hyderabad
+Job Type : Full-time
+Role : Team Member
+Start date : Immediate requirement � Very Urgent
+End date : Jan 2028
+Client Interview: YES
+
+Key Responsibilities:
+- Operate and monitor Microsoft Defender for Endpoint
+- Manage email security gateway, quarantine and policy controls
+- Implement Purview data classification and DLP
+- Support NOC/SOC vulnerability and compliance activities
+- Apply firewall/Cisco ISE knowledge
+- Administer BeyondTrust PAM

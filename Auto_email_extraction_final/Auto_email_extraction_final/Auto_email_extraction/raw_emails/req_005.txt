@@ -1,0 +1,29 @@
+From: Preetha M <Preetha.M@itcinfotech.com>
+Sent: Tuesday, April 21, 2026 11:44 AM
+Subject: FW: 3PT Demand__Salesforce Identity Provider (IdP)_ITC Infotech
+
+Need profiles on priority. Please find below JD attached.
+3PT (2months)
+Budget � 1.5 LPM
+Experience � 6-8years
+Notice period � Immediate
+Remote
+
+Role Overview:
+A Salesforce Identity Provider (IdP) Specialist/Developer is responsible for configuring and managing Salesforce as an Identity Provider.
+
+Required Skills:
+SAML 2.0
+OAuth 2.0
+OpenID Connect (OIDC)
+Salesforce Identity features
+JWT/assertions
+
+Tools & Platforms:
+Okta
+Azure Active Directory
+Postman
+
+Preferred:
+Salesforce Administrator
+Identity & Access Management Designer

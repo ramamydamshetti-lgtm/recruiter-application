@@ -1,0 +1,4785 @@
+
+--- Page 1 ---
+RECRUITMENT REQUIREMENTS REPORT —
+SEPTEMBER 2026
+Generated: September 28, 2026
+Scope: Full Month Day-wise Tracking
+MONTHLY SUMMARY: Total Requirements Received in September 2026 = 576  |  Active Ingestion Days = 14 / 30 Days
+Tuesday, September 01, 2026
+Total Requirements Received: 0
+No requirements received on this date.
+Wednesday, September 02, 2026
+Total Requirements Received: 0
+No requirements received on this date.
+Thursday, September 03, 2026
+Total Requirements Received: 0
+No requirements received on this date.
+Friday, September 04, 2026
+Total Requirements Received: 0
+No requirements received on this date.
+Saturday, September 05, 2026
+Total Requirements Received: 0
+No requirements received on this date.
+Sunday, September 06, 2026
+Total Requirements Received: 0
+No requirements received on this date.
+Monday, September 07, 2026
+Total Requirements Received: 0
+No requirements received on this date.
+
+--- Page 2 ---
+Tuesday, September 08, 2026
+Total Requirements Received: 0
+No requirements received on this date.
+
+--- Page 3 ---
+Wednesday, September 09, 2026
+Total Requirements Received: 37
+#
+Requirement ID
+Job Title / Role
+Client
+Location
+Exp Level
+Additional Details
+1
+DLTJP00061571
+Intershop Backend Developer
+IDexcel
+Pune
+4.5 Years
+Urgent Sourcing Requirement
+2
+200134-1
+SAP Fieldglass Contingent Workforce
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 3.43
+Lakhs
+3
+198329-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+10
+Work Mode: RTO | Budget: 1.40
+Lakhs
+4
+203907-1
+SAP CO Management Accounting
+Accenture
+Hyderabad(HDC4)
+6(15+ Yrs of Exp)
+Work Mode: RTO | Budget: Open
+Budget
+5
+203146-1
+SAP HANA DB Administration
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 1.65
+Lakhs
+6
+204263-1
+SAP Integrated Business Planning (IBP)
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: Open
+Budget
+7
+204347-1
+SAP FSCM Treasury and Risk Management (TRM)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: Open
+Budget
+8
+204248-1
+ServiceNow IT Service Management (ITSM)
+Accenture
+PAN India
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+9
+204163-1
+SAP Global Trade Services
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: Open
+Budget
+10
+204307-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: Open
+Budget
+11
+204233-1
+ServiceNow IT Service Management (ITSM)
+Accenture
+PAN India
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+12
+203528-1
+Pega Marketing
+Accenture
+PAN India
+9
+Work Mode: RTO | Budget: 2.79
+Lakhs
+13
+204081-1
+SAP FSCM Treasury and Risk Management (TRM)
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: Open
+Budget
+14
+Request-ID
+Skills - Name
+Accenture
+Location Flex
+Equivalent Grade
+Work Mode: RTO/Hybrid/WFH |
+Budget: Budget/monthly
+15
+196345-1
+ServiceNow Human Resource Service Delivery (HRSD)
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.10
+Lakhs
+16
+196401-1
+ServiceNow Human Resource Service Delivery (HRSD)
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.10
+Lakhs
+17
+195689-1
+SAP HCM Time Management
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: Open
+Budget
+18
+197034-1
+SAP HCM Time Management
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2 Lakhs
+19
+196848-1
+SAP for Utilities CRM
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.98
+Lakhs
+
+--- Page 4 ---
+20
+195414-1
+Memory Design
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 279,067
+21
+174902-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+8
+Work Mode: RTO | Budget: 3 Lakhs
+22
+174899-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 2.70
+Lakhs
+23
+188793-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 2.79
+Lakhs
+24
+198381-1
+SAP for Utilities Cust Financial Mgt FICA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: Hybrid | Budget: 1.90
+Lakhs
+25
+198326-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+10
+Work Mode: RTO | Budget: 1.40
+Lakhs
+26
+198377-1
+SAP for Utilities Billing
+Accenture
+Pune(PDC-3)
+10
+Work Mode: Hybrid | Budget: 1.90
+Lakhs
+27
+198316-1
+SAP for Utilities Energy Data Management Device Management
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+28
+198300-1
+SAP for Utilities Billing
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 1.90
+Lakhs
+29
+198475-1
+SAP for Utilities Cust Financial Mgt FICA
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.70
+Lakhs
+30
+198296-1
+SAP ABAP Development for HANA
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 1.70
+Lakhs
+31
+199098-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 1.90
+Lakhs
+32
+201319-1
+SAP SCM APO Advanced Planning & Optimization
+Accenture
+Kolkata(KDC1)
+9
+Work Mode: RTO | Budget: 2.10
+Lakhs
+33
+201120-1
+SAP Integrated Business Planning (IBP)
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 2.40
+Lakhs
+34
+201116-1
+Analog Circuits Design
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 3.80
+Lakhs
+35
+202461-1
+ServiceNow Strategic Portfolio Management (SPM)
+Accenture
+Gurugram(DDC5F)
+10
+Work Mode: RTO | Budget: 120,800
+36
+203502-1
+SAP Manufacturing Integration & Intelligence (MII)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+37
+203421-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Bangalore(BDC11)
+6(14+ Yrs Exp)
+Work Mode: RTO | Budget: 3.10
+Lakhs
+
+--- Page 5 ---
+Thursday, September 10, 2026
+Total Requirements Received: 44
+#
+Requirement ID
+Job Title / Role
+Client
+Location
+Exp Level
+Additional Details
+1
+198475-1
+SAP for Utilities Cust Financial Mgt FICA
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.70
+Lakhs
+2
+204617-1
+SAP FI S/4HANA Accounting
+Accenture
+Chennai(CDC2)
+9
+Work Mode: RTO | Budget: 245,700
+3
+198377-1
+SAP for Utilities Billing
+Accenture
+Pune(PDC-3)
+10
+Work Mode: Hybrid | Budget: 1.90
+Lakhs
+4
+204691-1
+SAP Master Data Governance MDG Tool
+Accenture
+Hyderabad(HDC3)
+8
+Work Mode: RTO | Budget: Open
+Budget
+5
+198326-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+10
+Work Mode: RTO | Budget: 1.40
+Lakhs
+6
+198296-1
+SAP ABAP Development for HANA
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 1.70
+Lakhs
+7
+203514-1
+Pega Marketing
+Accenture
+PAN India
+9
+Work Mode: RTO | Budget: 2.79
+Lakhs
+8
+195371-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 279,067
+9
+203146-1
+SAP HANA DB Administration
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 1.65
+Lakhs
+10
+202907-1
+SAP MM Materials Management
+Accenture
+Hyderabad(HDC3)
+9
+Work Mode: RTO | Budget: Open
+Budget
+11
+204237-1
+ServiceNow IT Service Management (ITSM)
+Accenture
+PAN India
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+12
+Request-ID
+Skills - Name
+Accenture
+Location Flex
+Equivalent Grade
+Work Mode: RTO/Hybrid/WFH |
+Budget: Budget/monthly
+13
+196345-1
+ServiceNow Human Resource Service Delivery (HRSD)
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.10
+Lakhs
+14
+196401-1
+ServiceNow Human Resource Service Delivery (HRSD)
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.10
+Lakhs
+15
+195689-1
+SAP HCM Time Management
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: Open
+Budget
+16
+197034-1
+SAP HCM Time Management
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2 Lakhs
+17
+196848-1
+SAP for Utilities CRM
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.98
+Lakhs
+18
+195414-1
+Memory Design
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 279,067
+19
+174902-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+8
+Work Mode: RTO | Budget: 3 Lakhs
+20
+174899-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 2.70
+Lakhs
+
+--- Page 6 ---
+21
+188793-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 2.79
+Lakhs
+22
+198381-1
+SAP for Utilities Cust Financial Mgt FICA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: Hybrid | Budget: 1.90
+Lakhs
+23
+198316-1
+SAP for Utilities Energy Data Management Device Management
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+24
+198300-1
+SAP for Utilities Billing
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 1.90
+Lakhs
+25
+199098-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 1.90
+Lakhs
+26
+201319-1
+SAP SCM APO Advanced Planning & Optimization
+Accenture
+Kolkata(KDC1)
+9
+Work Mode: RTO | Budget: 2.10
+Lakhs
+27
+201120-1
+SAP Integrated Business Planning (IBP)
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 2.40
+Lakhs
+28
+201116-1
+Analog Circuits Design
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 3.80
+Lakhs
+29
+202461-1
+ServiceNow Strategic Portfolio Management (SPM)
+Accenture
+Gurugram(DDC5F)
+10
+Work Mode: RTO | Budget: 120,800
+30
+202411-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: Open
+Budget
+31
+203502-1
+SAP Manufacturing Integration & Intelligence (MII)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+32
+203433-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Bangalore(BDC11)
+9
+Work Mode: RTO | Budget: 3.10
+Lakhs
+33
+203421-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Bangalore(BDC11)
+6(14+ Yrs Exp)
+Work Mode: RTO | Budget: 3.10
+Lakhs
+34
+204307-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: Open
+Budget
+35
+204347-1
+SAP FSCM Treasury and Risk Management (TRM)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.60
+Lakhs
+36
+204263-1
+SAP Integrated Business Planning (IBP)
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 2.40
+Lakhs
+37
+204291-1
+Dassault Systemes 3DEXPERIENCE Platform DELMIA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: RTO | Budget: 146,200
+38
+204262-1
+Enablon Software Platform
+Accenture
+Bangalore(BDC11)
+9
+Work Mode: RTO | Budget: 245,700
+39
+LTTS-20260910-39
+CAESAR II - for Vadodara
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+40
+LTTS-20260910-40
+Mechanical Plastic Design for Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+41
+DLTJP00060544
+Intershop Backend Developer
+IDexcel
+Pune
+4.5 Years
+Urgent Sourcing Requirement
+42
+LTTS-20260910-42
+Interview - Requirement - Lighting Design Engineer (Catia V5,
+Teamcenter) for Pune and Chennai
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Deepashree B C
+(Deepashree.Bc_ext@Ltts.com)
+
+--- Page 7 ---
+43
+DLTJP00061571
+Intershop Backend Developer
+IDexcel
+Pune
+4.5 Years
+Urgent Sourcing Requirement
+44
+LTTS-20260910-44
+Interview - Requirement - Senior Embedded Test Engineer for
+Pune
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Deepashree B C
+(Deepashree.Bc_ext@Ltts.com)
+
+--- Page 8 ---
+Friday, September 11, 2026
+Total Requirements Received: 58
+#
+Requirement ID
+Job Title / Role
+Client
+Location
+Exp Level
+Additional Details
+1
+LTTS-20260911-01
+Weekly Feedback
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Caroline Anisha P
+(Caroline.Anisha_ext@Ltts.com)
+2
+LTTS-20260911-02
+Sr Hardware Design for Mumbai ( Airoli , Rabale ) , Pune
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+3
+LTTS-20260911-03
+TEKLA Modeler & Detailer , Vadodara
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+4
+LTTS-20260911-04
+– Structural Engineer - Chennai
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+5
+LTTS-20260911-05
+– Process Safety Engineer - Vadodara
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+6
+LTTS-20260911-06
+Mobility-Cloud Developer-Bangalore/Mumbai/Hyderabad
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+7
+LTTS-20260911-07
+SAI - Technical Architect/Tech Lead-Hyderabad
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+8
+LTTS-20260911-08
+Mobility-Automotive HMI Developer_Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+9
+LTTS-20260911-09
+Mobility_Cluster Application Developer_Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+10
+LTTS-20260911-10
+EMB - C# Automation - Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+11
+LTTS-20260911-11
+EMB - Scrum Master for Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+12
+LTTS-20260911-12
+PCB Design Engineer for Pune
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+13
+LTTS-20260911-13
+Med tech - V&V; with DHF Remediation - Pune
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+14
+LTTS-20260911-14
+Med tech - System Engineer (DHF Remediation) - Pune
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+15
+LTTS-20260911-15
+PLM - CREO/CREO&NX; - Mysore - Immediate Joiners
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+16
+LTTS-20260911-16
+SMS - Apriso developer requirement (NIGHT SHIFT Req) -
+Chennai
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+17
+LTTS-20260911-17
+SMS - Apriso developer requirement (NIGHT SHIFT Req) -
+Chennai
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+18
+LTTS-20260911-18
+SMS- Sepasoft ( MES )-Bangalore, Chennai, Pune, Mysore,
+Vadodara, Hyderabad
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+
+--- Page 9 ---
+19
+LTTS-20260911-19
+MEH - NVH (ANSA & META) - Vadodara, Pune, Chennai
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+20
+LTTS-20260911-20
+PLM - Sr. Teamcenter Developer with ITK Customization-Banga
+lore/Chennai/HYD/Mumbai/Pune/Vadodara
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+21
+LTTS-20260911-21
+PLM - Exalead PLM Analytics Developer _ PUNE
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+22
+195414-1
+Memory Design
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 279,067
+23
+197034-1
+SAP HCM Time Management
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2 Lakhs
+24
+205111-1
+Configuration Database & CI Management
+Accenture
+Bangalore(BDC-7)
+10
+Work Mode: RTO | Budget: 95,000
+25
+205157-1
+Configuration Database & CI Management
+Accenture
+Bangalore(BDC-7)
+10
+Work Mode: RTO | Budget: 95,000
+26
+199198-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: Open
+Budget
+27
+204501-1
+SAP SuccessFactors Employee Central Payroll
+Accenture
+Pune(PDC-3)
+8
+Work Mode: RTO | Budget: 3 Lakhs
+28
+204691-1
+SAP Master Data Governance MDG Tool
+Accenture
+Hyderabad(HDC3)
+8
+Work Mode: RTO | Budget: Open
+Budget
+29
+203514-1
+Pega Marketing
+Accenture
+PAN India
+9
+Work Mode: RTO | Budget: 2.79
+Lakhs
+30
+202411-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: Open
+Budget
+31
+Request-ID
+Skills - Name
+Accenture
+Location Flex
+Equivalent Grade
+Work Mode: RTO/Hybrid/WFH |
+Budget: Budget/monthly
+32
+196345-1
+ServiceNow Human Resource Service Delivery (HRSD)
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.10
+Lakhs
+33
+196401-1
+ServiceNow Human Resource Service Delivery (HRSD)
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.10
+Lakhs
+34
+195689-1
+SAP HCM Time Management
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: Open
+Budget
+35
+196848-1
+SAP for Utilities CRM
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.98
+Lakhs
+36
+174902-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+8
+Work Mode: RTO | Budget: 3 Lakhs
+37
+174899-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 2.70
+Lakhs
+38
+188793-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 2.79
+Lakhs
+39
+198381-1
+SAP for Utilities Cust Financial Mgt FICA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: Hybrid | Budget: 1.90
+Lakhs
+40
+198316-1
+SAP for Utilities Energy Data Management Device Management
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+
+--- Page 10 ---
+41
+198300-1
+SAP for Utilities Billing
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 1.90
+Lakhs
+42
+199098-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 1.90
+Lakhs
+43
+201319-1
+SAP SCM APO Advanced Planning & Optimization
+Accenture
+Kolkata(KDC1)
+9
+Work Mode: RTO | Budget: 2.10
+Lakhs
+44
+201120-1
+SAP Integrated Business Planning (IBP)
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 2.40
+Lakhs
+45
+201116-1
+Analog Circuits Design
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 3.80
+Lakhs
+46
+202461-1
+ServiceNow Strategic Portfolio Management (SPM)
+Accenture
+Gurugram(DDC5F)
+10
+Work Mode: RTO | Budget: 120,800
+47
+203502-1
+SAP Manufacturing Integration & Intelligence (MII)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+48
+203433-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Bangalore(BDC11)
+9
+Work Mode: RTO | Budget: 3.10
+Lakhs
+49
+203421-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Bangalore(BDC11)
+6(14+ Yrs Exp)
+Work Mode: RTO | Budget: 3.10
+Lakhs
+50
+204307-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: Open
+Budget
+51
+204347-1
+SAP FSCM Treasury and Risk Management (TRM)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.60
+Lakhs
+52
+204291-1
+Dassault Systemes 3DEXPERIENCE Platform DELMIA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: RTO | Budget: 146,200
+53
+204262-1
+Enablon Software Platform
+Accenture
+Bangalore(BDC11)
+9
+Work Mode: RTO | Budget: 245,700
+54
+204512-1
+Dassault Systemes 3DEXPERIENCE Platform DELMIA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: RTO | Budget: 146,200
+55
+204507-1
+Dassault Systemes 3DEXPERIENCE Platform DELMIA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: RTO | Budget: 146,200
+56
+DLTJP00061571
+Intershop Backend Developer
+IDexcel
+Pune
+4.5 Years
+Urgent Sourcing Requirement
+57
+IDEX-20260911-01
+Intershop Backend Developer
+IDexcel
+Pune
+4.5 Years
+Urgent Sourcing Requirement
+58
+ITC-20260911-58
+Quick Connect-Critical requirement-SAP TPM+CRM
+ITC Infotech
+India
+As per JD
+Sender: Neeraj S
+(Neeraj.S2@itcinfotech.com)
+Saturday, September 12, 2026
+Total Requirements Received: 0
+No requirements received on this date.
+Sunday, September 13, 2026
+Total Requirements Received: 0
+No requirements received on this date.
+
+--- Page 11 ---
+Monday, September 14, 2026
+Total Requirements Received: 0
+No requirements received on this date.
+
+--- Page 12 ---
+Tuesday, September 15, 2026
+Total Requirements Received: 41
+#
+Requirement ID
+Job Title / Role
+Client
+Location
+Exp Level
+Additional Details
+1
+LTTS-20260915-01
+SMS -EAM Engineer - Chennai
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+2
+LTTS-20260915-02
+SMS_ 10x Engineers with Autodesk Revit _ Chennai _
+immediate Joiners _ High Priority
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+3
+LTTS-20260915-03
+EMB - C# Automation Engineer for Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+4
+LTTS-20260915-04
+EMB - C# and Desktop Application - Bangalore/Mysore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+5
+LTTS-20260915-05
+SolidWorks PDM PLM for Bangalore , Mysore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+6
+205424-1
+ServiceNow IT Service Management (ITSM)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 1.36
+Lakhs
+7
+174899-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 2.70
+Lakhs
+8
+205784-1
+SAP EWM
+Accenture
+Hyderabad(HDC3)
+9
+Work Mode: RTO | Budget: Open
+Budget
+9
+205438-1
+ServiceNow Customer Service Management (CSM)
+Accenture
+Bangalore(BDC14)
+8
+Work Mode: RTO | Budget: 2.50
+Lakhs
+10
+195398-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 279,067
+11
+174902-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+8
+Work Mode: RTO | Budget: 3 Lakhs
+12
+195371-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 279,067
+13
+199098-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 1.90
+Lakhs
+14
+205118-1
+SAP CO Management Accounting
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 279,067
+15
+202907-1
+SAP MM Materials Management
+Accenture
+Hyderabad(HDC3)
+9
+Work Mode: RTO | Budget: Open
+Budget
+16
+205157-1
+Configuration Database & CI Management
+Accenture
+Bangalore(BDC-7)
+10
+Work Mode: RTO | Budget: 95,000
+17
+201116-1
+Analog Circuits Design
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 3.80
+Lakhs
+18
+204233-1
+ServiceNow IT Service Management (ITSM)
+Accenture
+PAN India
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+19
+205415-1
+ServiceNow IT Service Management (ITSM)
+Accenture
+Bangalore(BDC14)
+10
+Work Mode: RTO | Budget: 1.10
+Lakhs
+20
+Request-ID
+Skills - Name
+Accenture
+Location Flex
+Equivalent Grade
+Work Mode: RTO/Hybrid/WFH |
+Budget: Budget/monthly
+
+--- Page 13 ---
+21
+196345-1
+ServiceNow Human Resource Service Delivery (HRSD)
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.10
+Lakhs
+22
+196401-1
+ServiceNow Human Resource Service Delivery (HRSD)
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.10
+Lakhs
+23
+195689-1
+SAP HCM Time Management
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: Open
+Budget
+24
+196848-1
+SAP for Utilities CRM
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.98
+Lakhs
+25
+195375-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 279,067
+26
+188793-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 2.79
+Lakhs
+27
+198381-1
+SAP for Utilities Cust Financial Mgt FICA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: Hybrid | Budget: 1.90
+Lakhs
+28
+198316-1
+SAP for Utilities Energy Data Management Device Management
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+29
+198300-1
+SAP for Utilities Billing
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 1.90
+Lakhs
+30
+201319-1
+SAP SCM APO Advanced Planning & Optimization
+Accenture
+Kolkata(KDC1)
+9
+Work Mode: RTO | Budget: 2.10
+Lakhs
+31
+201120-1
+SAP Integrated Business Planning (IBP)
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 2.40
+Lakhs
+32
+202461-1
+ServiceNow Strategic Portfolio Management (SPM)
+Accenture
+Gurugram(DDC5F)
+10
+Work Mode: RTO | Budget: 120,800
+33
+203502-1
+SAP Manufacturing Integration & Intelligence (MII)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+34
+203433-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Bangalore(BDC11)
+9
+Work Mode: RTO | Budget: 3.10
+Lakhs
+35
+203421-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Bangalore(BDC11)
+6(14+ Yrs Exp)
+Work Mode: RTO | Budget: 3.10
+Lakhs
+36
+204307-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: Open
+Budget
+37
+204347-1
+SAP FSCM Treasury and Risk Management (TRM)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.60
+Lakhs
+38
+204291-1
+Dassault Systemes 3DEXPERIENCE Platform DELMIA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: RTO | Budget: 146,200
+39
+204262-1
+Enablon Software Platform
+Accenture
+Bangalore(BDC11)
+9
+Work Mode: RTO | Budget: 245,700
+40
+204512-1
+Dassault Systemes 3DEXPERIENCE Platform DELMIA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: RTO | Budget: 146,200
+41
+204507-1
+Dassault Systemes 3DEXPERIENCE Platform DELMIA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: RTO | Budget: 146,200
+
+--- Page 14 ---
+Wednesday, September 16, 2026
+Total Requirements Received: 34
+#
+Requirement ID
+Job Title / Role
+Client
+Location
+Exp Level
+Additional Details
+1
+LTTS-20260916-01
+SMS - Purchase Executive / Buyer - Vadodara - Immediate
+joiners
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+2
+203433-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Bangalore(BDC11)
+9
+Work Mode: RTO | Budget: 3.10
+Lakhs
+3
+206291-1
+SAP FI S/4HANA Accounting
+Accenture
+Gurugram(DDC5F)
+8
+Work Mode: RTO | Budget: Open
+Budget
+4
+195371-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 279,067
+5
+188662-1
+SAP PO/PI & APIs Development
+Accenture
+Gurugram(DDC5F)
+11
+Work Mode: RTO | Budget: 95,000
+6
+202907-1
+SAP MM Materials Management
+Accenture
+Hyderabad(HDC3)
+9
+Work Mode: RTO | Budget: Open
+Budget
+7
+195375-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 279,067
+8
+205679-1
+SAP FI CO Finance
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+9
+196338-1
+ServiceNow Human Resource Service Delivery (HRSD)
+Accenture
+Bangalore(BDC-7)
+10
+Work Mode: RTO | Budget: 91,000
+10
+Request-ID
+Skills - Name
+Accenture
+Location Flex
+Equivalent Grade
+Work Mode: RTO/Hybrid/WFH |
+Budget: Budget/monthly
+11
+196345-1
+ServiceNow Human Resource Service Delivery (HRSD)
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.10
+Lakhs
+12
+196401-1
+ServiceNow Human Resource Service Delivery (HRSD)
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.10
+Lakhs
+13
+195689-1
+SAP HCM Time Management
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: Open
+Budget
+14
+196848-1
+SAP for Utilities CRM
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.98
+Lakhs
+15
+195398-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 279,067
+16
+174902-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+8
+Work Mode: RTO | Budget: 3 Lakhs
+17
+188793-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 2.79
+Lakhs
+18
+198381-1
+SAP for Utilities Cust Financial Mgt FICA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: Hybrid | Budget: 1.90
+Lakhs
+19
+198316-1
+SAP for Utilities Energy Data Management Device Management
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+20
+198300-1
+SAP for Utilities Billing
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 1.90
+Lakhs
+21
+199199-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: Open
+Budget
+
+--- Page 15 ---
+22
+201319-1
+SAP SCM APO Advanced Planning & Optimization
+Accenture
+Kolkata(KDC1)
+9
+Work Mode: RTO | Budget: 2.10
+Lakhs
+23
+201120-1
+SAP Integrated Business Planning (IBP)
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 2.40
+Lakhs
+24
+202461-1
+ServiceNow Strategic Portfolio Management (SPM)
+Accenture
+Gurugram(DDC5F)
+10
+Work Mode: RTO | Budget: 120,800
+25
+203502-1
+SAP Manufacturing Integration & Intelligence (MII)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+26
+203421-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Bangalore(BDC11)
+6(14+ Yrs Exp)
+Work Mode: RTO | Budget: 3.10
+Lakhs
+27
+204307-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: Open
+Budget
+28
+204347-1
+SAP FSCM Treasury and Risk Management (TRM)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.60
+Lakhs
+29
+204291-1
+Dassault Systemes 3DEXPERIENCE Platform DELMIA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: RTO | Budget: 146,200
+30
+204512-1
+Dassault Systemes 3DEXPERIENCE Platform DELMIA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: RTO | Budget: 146,200
+31
+204507-1
+Dassault Systemes 3DEXPERIENCE Platform DELMIA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: RTO | Budget: 146,200
+32
+205424-1
+ServiceNow IT Service Management (ITSM)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 1.36
+Lakhs
+33
+205678-1
+SAP Project System (PS)
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 245,700
+34
+IDEX-20260916-01
+Intershop Backend Developer
+IDexcel
+Pune
+4.5 Years
+Urgent Sourcing Requirement
+
+--- Page 16 ---
+Thursday, September 17, 2026
+Total Requirements Received: 35
+#
+Requirement ID
+Job Title / Role
+Client
+Location
+Exp Level
+Additional Details
+1
+206755-1
+ServiceNow
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: Open
+Budget
+2
+206334-1
+SAP EWM
+Accenture
+Bangalore(BDC11)
+9
+Work Mode: RTO | Budget: 2.60
+Lakhs
+3
+204307-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+4
+206678-1
+SAP FI S/4HANA Central Finance
+Accenture
+Bangalore(BDC14)
+8
+Work Mode: RTO | Budget: Open
+Budget
+5
+203421-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Bangalore(BDC11)
+6(14+ Yrs Exp)
+Work Mode: RTO | Budget: 3.20
+Lakhs
+6
+202411-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: Open
+Budget
+7
+206291-1
+SAP FI S/4HANA Accounting
+Accenture
+Gurugram(DDC5F)
+8
+Work Mode: RTO | Budget: Open
+Budget
+8
+206768-1
+AI Agents & Workflow Integration
+Accenture
+Bangalore(BDC14)
+8
+Work Mode: RTO | Budget: Open
+Budget
+9
+202907-1
+SAP MM Materials Management
+Accenture
+Hyderabad(HDC3)
+9
+Work Mode: RTO | Budget: Open
+Budget
+10
+204233-1
+ServiceNow IT Service Management (ITSM)
+Accenture
+PAN India
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+11
+196401-1
+ServiceNow Human Resource Service Delivery (HRSD)
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.10
+Lakhs
+12
+204248-1
+ServiceNow IT Service Management (ITSM)
+Accenture
+PAN India
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+13
+204691-1
+SAP Master Data Governance MDG Tool
+Accenture
+Hyderabad(HDC3)
+8
+Work Mode: RTO | Budget: 2.90
+Lakhs
+14
+198300-1
+SAP for Utilities Billing
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 1.90
+Lakhs
+15
+199199-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: Open
+Budget
+16
+205424-1
+ServiceNow IT Service Management (ITSM)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 1.36
+Lakhs
+17
+Request-ID
+Skills - Name
+Accenture
+Location Flex
+Equivalent Grade
+Work Mode: RTO/Hybrid/WFH |
+Budget: Budget/monthly
+18
+196345-1
+ServiceNow Human Resource Service Delivery (HRSD)
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.10
+Lakhs
+
+--- Page 17 ---
+19
+196848-1
+SAP for Utilities CRM
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.98
+Lakhs
+20
+195398-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 279,067
+21
+174902-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+8
+Work Mode: RTO | Budget: 3 Lakhs
+22
+188793-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 2.79
+Lakhs
+23
+198381-1
+SAP for Utilities Cust Financial Mgt FICA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: Hybrid | Budget: 1.90
+Lakhs
+24
+198316-1
+SAP for Utilities Energy Data Management Device Management
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+25
+201319-1
+SAP SCM APO Advanced Planning & Optimization
+Accenture
+Kolkata(KDC1)
+9
+Work Mode: RTO | Budget: 2.10
+Lakhs
+26
+201120-1
+SAP Integrated Business Planning (IBP)
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 2.40
+Lakhs
+27
+202461-1
+ServiceNow Strategic Portfolio Management (SPM)
+Accenture
+Gurugram(DDC5F)
+10
+Work Mode: RTO | Budget: 120,800
+28
+203502-1
+SAP Manufacturing Integration & Intelligence (MII)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+29
+203484-1
+SAP Document and Reporting Compliance
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.45
+Lakhs
+30
+204347-1
+SAP FSCM Treasury and Risk Management (TRM)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.60
+Lakhs
+31
+204291-1
+Dassault Systemes 3DEXPERIENCE Platform DELMIA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: RTO | Budget: 146,200
+32
+204512-1
+Dassault Systemes 3DEXPERIENCE Platform DELMIA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: RTO | Budget: 146,200
+33
+204507-1
+Dassault Systemes 3DEXPERIENCE Platform DELMIA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: RTO | Budget: 146,200
+34
+IDEX-20260917-01
+Intershop Backend Developer
+IDexcel
+Pune
+4.5 Years
+Urgent Sourcing Requirement
+35
+ITC-20260917-35
+Urgent Requirement-SAP TPM+CRM
+ITC Infotech
+India
+As per JD
+Sender: Neeraj S
+(Neeraj.S2@itcinfotech.com)
+
+--- Page 18 ---
+Friday, September 18, 2026
+Total Requirements Received: 45
+#
+Requirement ID
+Job Title / Role
+Client
+Location
+Exp Level
+Additional Details
+1
+LTTS-20260918-01
+Weekly Feedback
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Caroline Anisha P
+(Caroline.Anisha_ext@Ltts.com)
+2
+LTTS-20260918-02
+Technical Writer Cum Illustrator-Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+3
+196345-1
+ServiceNow Human Resource Service Delivery (HRSD)
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.10
+Lakhs
+4
+204347-1
+SAP FSCM Treasury and Risk Management (TRM)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.60
+Lakhs
+5
+201748-1
+Solarwinds Administration
+Accenture
+Bangalore(BDC6)
+9
+Work Mode: Hybrid | Budget:
+80,000
+6
+206846-1
+SAP PO/PI & APIs Development
+Accenture
+Gurugram(DDC5F)
+11
+Work Mode: RTO | Budget: 101,300
+7
+205345-1
+Salesforce Data 360
+Accenture
+Bangalore(BDC-7)
+10
+Work Mode: RTO | Budget: 1.80
+Lakhs
+8
+202907-1
+SAP MM Materials Management
+Accenture
+Hyderabad(HDC3)
+9
+Work Mode: RTO | Budget: Open
+Budget
+9
+205162-1
+Salesforce Data 360
+Accenture
+Bangalore(BDC-7)
+10
+Work Mode: RTO | Budget: 1.80
+Lakhs
+10
+206768-1
+AI Agents & Workflow Integration
+Accenture
+Bangalore(BDC14)
+8
+Work Mode: RTO | Budget: Open
+Budget
+11
+206774-1
+SAP FI S/4HANA Accounting
+Accenture
+Gurugram(DDC5F)
+9
+Work Mode: RTO | Budget: 245,700
+12
+206784-1
+SAP Sales and Distribution (SD)
+Accenture
+Gurugram(DDC5F)
+10
+Work Mode: RTO | Budget: 146,200
+13
+Request-ID
+Skills - Name
+Accenture
+Location Flex
+Equivalent Grade
+Work Mode: RTO/Hybrid/WFH |
+Budget: Budget/monthly
+14
+196848-1
+SAP for Utilities CRM
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.98
+Lakhs
+15
+195398-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 279,067
+16
+174902-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+8
+Work Mode: RTO | Budget: 3 Lakhs
+17
+188793-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 2.79
+Lakhs
+18
+198381-1
+SAP for Utilities Cust Financial Mgt FICA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: Hybrid | Budget: 1.90
+Lakhs
+19
+198316-1
+SAP for Utilities Energy Data Management Device Management
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+20
+201319-1
+SAP SCM APO Advanced Planning & Optimization
+Accenture
+Kolkata(KDC1)
+9
+Work Mode: RTO | Budget: 2.10
+Lakhs
+
+--- Page 19 ---
+21
+201120-1
+SAP Integrated Business Planning (IBP)
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 2.40
+Lakhs
+22
+202461-1
+ServiceNow Strategic Portfolio Management (SPM)
+Accenture
+Gurugram(DDC5F)
+10
+Work Mode: RTO | Budget: 120,800
+23
+202411-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: Open
+Budget
+24
+203502-1
+SAP Manufacturing Integration & Intelligence (MII)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+25
+203421-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Bangalore(BDC11)
+6(14+ Yrs Exp)
+Work Mode: RTO | Budget: 3.20
+Lakhs
+26
+203484-1
+SAP Document and Reporting Compliance
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.45
+Lakhs
+27
+204291-1
+Dassault Systemes 3DEXPERIENCE Platform DELMIA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: RTO | Budget: 146,200
+28
+204691-1
+SAP Master Data Governance MDG Tool
+Accenture
+Hyderabad(HDC3)
+8
+Work Mode: RTO | Budget: 2.90
+Lakhs
+29
+204512-1
+Dassault Systemes 3DEXPERIENCE Platform DELMIA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: RTO | Budget: 146,200
+30
+204507-1
+Dassault Systemes 3DEXPERIENCE Platform DELMIA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: RTO | Budget: 146,200
+31
+205424-1
+ServiceNow IT Service Management (ITSM)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 1.36
+Lakhs
+32
+LTTS-20260918-32
+Updates- UG-NX CAD Automation - Chennai - Machani Lokesh
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Arundhati
+Shivashankarappa Rudagi
+(Arundhati.Rudagi_ext@Ltts.com)
+33
+LTTS-20260918-33
+Mobility_Language Translator (Cantonese to
+English)_Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+34
+LTTS-20260918-34
+MNT_Payment Application Infrastructure Operations Engineer
+(Linux, Load balancing, Patching, Kubernetes and
+ITIL)_Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+35
+LTTS-20260918-35
+MNT_Systems Engineer (KVM/Libvirt, RHEL, Active Directory,
+Ansible, SAN storage)_Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+36
+LTTS-20260918-36
+MNT_Palo Alto Network Engineer_Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+37
+LTTS-20260918-37
+MNT_Juniper and Cloud Network Engineer_Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+38
+LTTS-20260918-38
+MNT_AWS Cloud DevOps Engineer_Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+39
+LTTS-20260918-39
+– Civil Structure Lead Engineer - Chennai
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+40
+LTTS-20260918-40
+Tool & Equipment Maintenance , Chennai
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+41
+LTTS-20260918-41
+Detailer - Auto CAD + Piping for Vadodara
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+
+--- Page 20 ---
+42
+LTTS-20260918-42
+Teamcenter Administrator-Chennai
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+43
+LTTS-20260918-43
+CAA Developer(3D Experience) Developer-Pune
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+44
+LTTS-20260918-44
+Polarion ALM Developer-Mumbai/Pune
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+45
+DLTJP00062018
+Intershop Backend Developer
+IDexcel
+Pune
+4.5 Years
+Urgent Sourcing Requirement
+Saturday, September 19, 2026
+Total Requirements Received: 0
+No requirements received on this date.
+Sunday, September 20, 2026
+Total Requirements Received: 12
+#
+Requirement ID
+Job Title / Role
+Client
+Location
+Exp Level
+Additional Details
+1
+LTTS-20260920-01
+One tech - Detailed Engineering (Civil) - Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+2
+LTTS-20260920-02
+One tech - Senior Data Engineer - Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+3
+LTTS-20260920-03
+One Tech- Detailed Engineering (Mechanical) - Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+4
+LTTS-20260920-04
+EMB - WiFi security engineer for Bangalore/ Mysore / Chennai
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+5
+LTTS-20260920-05
+EMB - Exteriors Design Engineer for Chennai
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+6
+LTTS-20260920-06
+One Tech- Data Scientist - Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+7
+LTTS-20260920-07
+PCB Design (Automotive) with Siemens Xpedition ECAD -
+BLR/CHN/HYD
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+8
+LTTS-20260920-08
+SMS - Apriso developer requirement (NIGHT SHIFT Req) -
+Chennai
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+9
+LTTS-20260920-09
+SMS - Process Validation Profiles (Project Engineer & process
+Engineer ) - Aurangabad
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+10
+LTTS-20260920-10
+MEH - Jr & Sr - UX Designer - Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+11
+LTTS-20260920-11
+PLM - Solution Architect-3DX - Pune (Kalyani Nagar)
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+12
+LTTS-20260920-12
+MEH - Req - Urgent Requirement: Engineer Design & CAD
+(NX)- Immediate joiner
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+
+--- Page 21 ---
+Monday, September 21, 2026
+Total Requirements Received: 29
+#
+Requirement ID
+Job Title / Role
+Client
+Location
+Exp Level
+Additional Details
+1
+204291-1
+Dassault Systemes 3DEXPERIENCE Platform DELMIA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: RTO | Budget: 146,200
+2
+204512-1
+Dassault Systemes 3DEXPERIENCE Platform DELMIA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: RTO | Budget: 146,200
+3
+204507-1
+Dassault Systemes 3DEXPERIENCE Platform DELMIA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: RTO | Budget: 146,200
+4
+206983-1
+SAP SuccessFactors Compensation
+Accenture
+Bangalore(BDC11)
+10
+Work Mode: RTO | Budget: Open
+Budget
+5
+206291-1
+SAP FI S/4HANA Accounting
+Accenture
+Gurugram(DDC5F)
+8
+Work Mode: RTO | Budget: Open
+Budget
+6
+201120-1
+SAP Integrated Business Planning (IBP)
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 2.40
+Lakhs
+7
+205162-1
+Salesforce Data 360
+Accenture
+Bangalore(BDC-7)
+10
+Work Mode: RTO | Budget: 1.80
+Lakhs
+8
+207150-1
+Salesforce Testing
+Accenture
+Hyderabad(HDC3)
+11
+Work Mode: RTO | Budget: Open
+Budget
+9
+207542-1
+SAP Plant Maintenance (PM)
+Accenture
+Pune(PDC-3)
+10
+Work Mode: RTO | Budget: Open
+Budget
+10
+204691-1
+SAP Master Data Governance MDG Tool
+Accenture
+Hyderabad(HDC3)
+8
+Work Mode: RTO | Budget: 2.90
+Lakhs
+11
+198300-1
+SAP for Utilities Billing
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 1.90
+Lakhs
+12
+186544-1
+SAP PO/PI & APIs Development
+Accenture
+Gurugram(DDC5F)
+8(10 Yrs Exp
+Total)
+Work Mode: RTO | Budget: 3 Lakhs
+13
+188793-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 2.79
+Lakhs
+14
+202411-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: Open
+Budget
+15
+Request-ID
+Skills - Name
+Accenture
+Location Flex
+Equivalent Grade
+Work Mode: RTO/Hybrid/WFH |
+Budget: Budget/monthly
+16
+196848-1
+SAP for Utilities CRM
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.98
+Lakhs
+17
+195398-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 279,067
+18
+174902-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+8
+Work Mode: RTO | Budget: 3 Lakhs
+19
+198381-1
+SAP for Utilities Cust Financial Mgt FICA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: Hybrid | Budget: 1.90
+Lakhs
+20
+198316-1
+SAP for Utilities Energy Data Management Device Management
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+
+--- Page 22 ---
+21
+201319-1
+SAP SCM APO Advanced Planning & Optimization
+Accenture
+Kolkata(KDC1)
+9
+Work Mode: RTO | Budget: 2.10
+Lakhs
+22
+202461-1
+ServiceNow Strategic Portfolio Management (SPM)
+Accenture
+Gurugram(DDC5F)
+10
+Work Mode: RTO | Budget: 120,800
+23
+203502-1
+SAP Manufacturing Integration & Intelligence (MII)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+24
+203421-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Bangalore(BDC11)
+6(14+ Yrs Exp)
+Work Mode: RTO | Budget: 3.20
+Lakhs
+25
+203484-1
+SAP Document and Reporting Compliance
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.45
+Lakhs
+26
+204307-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+27
+205424-1
+ServiceNow IT Service Management (ITSM)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 1.36
+Lakhs
+28
+IDEX-20260921-01
+Intershop Backend Developer
+IDexcel
+Pune
+4.5 Years
+Urgent Sourcing Requirement
+29
+ITC-20260921-29
+Urgent Requirement-SAP TPM+CRM
+ITC Infotech
+India
+As per JD
+Sender: Neeraj S
+(Neeraj.S2@itcinfotech.com)
+
+--- Page 23 ---
+Tuesday, September 22, 2026
+Total Requirements Received: 31
+#
+Requirement ID
+Job Title / Role
+Client
+Location
+Exp Level
+Additional Details
+1
+IDEX-20260922-01
+Intershop Backend Developer
+IDexcel
+Pune
+4.5 Years
+Urgent Sourcing Requirement
+2
+207725-1
+Veeva CRM
+Accenture
+Chennai(CDC2)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+3
+203146-1
+SAP HANA DB Administration
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 1.65
+Lakhs
+4
+198377-1
+SAP for Utilities Billing
+Accenture
+Pune(PDC-3)
+10
+Work Mode: Hybrid | Budget: 1.90
+Lakhs
+5
+204501-1
+SAP SuccessFactors Employee Central Payroll
+Accenture
+Pune(PDC-3)
+8
+Work Mode: RTO | Budget: 3 Lakhs
+6
+202411-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: Open
+Budget
+7
+202461-1
+ServiceNow Strategic Portfolio Management (SPM)
+Accenture
+Gurugram(DDC5F)
+10
+Work Mode: RTO | Budget: 120,800
+8
+203190-1
+SAP FI CO Finance
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+9
+202970-1
+SAP BusinessObjects Data Services
+Accenture
+Bangalore(BDC14)
+9
+Work Mode: RTO | Budget: 2.45
+Lakhs
+10
+200961-1
+SAP MM Materials Management
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+11
+207268-1
+Asset Life Cycle Management
+Accenture
+PAN India
+8(10 Yrs Exp
+Total)
+Work Mode: Hybrid | Budget:
+298,700
+12
+201169-1
+SAP PP Production Planning & Control Discrete Industries
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 2.30
+Lakhs
+13
+200968-1
+SAP CO Management Accounting
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+14
+205118-1
+SAP CO Management Accounting
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 279,067
+15
+Request-ID
+Skills - Name
+Accenture
+Location Flex
+Equivalent Grade
+Work Mode: RTO/Hybrid/WFH |
+Budget: Budget/monthly
+16
+196848-1
+SAP for Utilities CRM
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.98
+Lakhs
+17
+195398-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 279,067
+18
+174902-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+8
+Work Mode: RTO | Budget: 3 Lakhs
+19
+198381-1
+SAP for Utilities Cust Financial Mgt FICA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: Hybrid | Budget: 1.90
+Lakhs
+20
+198316-1
+SAP for Utilities Energy Data Management Device Management
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+21
+198300-1
+SAP for Utilities Billing
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 1.90
+Lakhs
+
+--- Page 24 ---
+22
+201319-1
+SAP SCM APO Advanced Planning & Optimization
+Accenture
+Kolkata(KDC1)
+9
+Work Mode: RTO | Budget: 2.10
+Lakhs
+23
+203502-1
+SAP Manufacturing Integration & Intelligence (MII)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+24
+203421-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Bangalore(BDC11)
+6(14+ Yrs Exp)
+Work Mode: RTO | Budget: 3.20
+Lakhs
+25
+203484-1
+SAP Document and Reporting Compliance
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.45
+Lakhs
+26
+204307-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+27
+205424-1
+ServiceNow IT Service Management (ITSM)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 1.36
+Lakhs
+28
+206291-1
+SAP FI S/4HANA Accounting
+Accenture
+Gurugram(DDC5F)
+8
+Work Mode: RTO | Budget: Open
+Budget
+29
+186544-1
+SAP PO/PI & APIs Development
+Accenture
+Gurugram(DDC5F)
+8(10 Yrs Exp
+Total)
+Work Mode: RTO | Budget: 3 Lakhs
+30
+ITC-20260922-30
+Urgent Requirement-SAP PPQM
+ITC Infotech
+India
+As per JD
+Sender: Neeraj S
+(Neeraj.S2@itcinfotech.com)
+31
+DLTJP00059663
+Intershop Backend Developer
+IDexcel
+Pune
+4.5 Years
+Urgent Sourcing Requirement
+
+--- Page 25 ---
+Wednesday, September 23, 2026
+Total Requirements Received: 63
+#
+Requirement ID
+Job Title / Role
+Client
+Location
+Exp Level
+Additional Details
+1
+LTTS-20260923-01
+PLM - Mechanical Design Engineer(Catia V5) for Pune
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+2
+LTTS-20260923-02
+CAD PLM Process Lead-Pune(Kalyani Nagar)
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+3
+LTTS-20260923-03
+MnT - Bare Metal Engineer - Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+4
+LTTS-20260923-04
+SMS - Purchase Executive / Buyer - Vadodara - Immediate
+joiners(26th virtual Drive)
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+5
+LTTS-20260923-05
+EMB - Emulation Consultant for Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+6
+LTTS-20260923-06
+EMB - NI Test Engineers for Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+7
+LTTS-20260923-07
+EMB - LabVIEW developer for Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+8
+LTTS-20260923-08
+EMB - PCB ECAD Engineer for Bangalore/Pune
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+9
+LTTS-20260923-09
+EMB - Avalonia Developer for Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+10
+203483-1
+Salesforce Omnistudio Platform
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.79
+Lakhs
+11
+207903-1
+ServiceNow Strategic Portfolio Management (SPM)-
+Accenture
+Gurugram(DDC5F)
+10
+Work Mode: RTO | Budget: 120,800
+12
+187653-1
+SAP S/4HANA Advanced Available to Promise
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+13
+208172-1
+SAP ABAP Development for HANA
+Accenture
+Hyderabad(HDC3)
+9
+Work Mode: RTO | Budget: Open
+Budget
+14
+Request-ID
+Skills - Name
+Accenture
+Location Flex
+Equivalent Grade
+Work Mode: RTO/Hybrid/WFH |
+Budget: Budget/monthly
+15
+196401-1
+ServiceNow Human Resource Service Delivery (HRSD)
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.10
+Lakhs
+16
+196848-1
+SAP for Utilities CRM
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.98
+Lakhs
+17
+195398-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 279,067
+18
+174902-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+8
+Work Mode: RTO | Budget: 3.20
+Lakhs
+19
+198381-1
+SAP for Utilities Cust Financial Mgt FICA
+Accenture
+Pune(PDC-3)
+10
+Work Mode: Hybrid | Budget: 1.90
+Lakhs
+
+--- Page 26 ---
+20
+198326-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+10(5+ Yrs total)
+Work Mode: RTO | Budget: 1.60
+Lakhs
+21
+198377-1
+SAP for Utilities Billing
+Accenture
+Pune(PDC-3)
+10
+Work Mode: Hybrid | Budget: 1.90
+Lakhs
+22
+198316-1
+SAP for Utilities Energy Data Management Device Management
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+23
+198300-1
+SAP for Utilities Billing
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 1.90
+Lakhs
+24
+199098-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 1.90
+Lakhs
+25
+199198-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+26
+199199-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+27
+200968-1
+SAP CO Management Accounting
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+28
+201319-1
+SAP SCM APO Advanced Planning & Optimization
+Accenture
+Kolkata(KDC1)
+9
+Work Mode: RTO | Budget: 2.10
+Lakhs
+29
+202411-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: Open
+Budget
+30
+203502-1
+SAP Manufacturing Integration & Intelligence (MII)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+31
+203421-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Bangalore(BDC11)
+6(14+ Yrs Exp)
+Work Mode: RTO | Budget: 3.20
+Lakhs
+32
+203484-1
+SAP Document and Reporting Compliance
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.45
+Lakhs
+33
+204307-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+34
+203146-1
+SAP HANA DB Administration
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 1.65
+Lakhs
+35
+204501-1
+SAP SuccessFactors Employee Central Payroll
+Accenture
+Pune(PDC-3)
+8
+Work Mode: RTO | Budget: 3 Lakhs
+36
+205118-1
+SAP CO Management Accounting
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 279,067
+37
+205424-1
+ServiceNow IT Service Management (ITSM)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 1.36
+Lakhs
+38
+205415-1
+ServiceNow IT Service Management (ITSM)
+Accenture
+Bangalore(BDC14)
+10
+Work Mode: RTO | Budget: 1.10
+Lakhs
+39
+206291-1
+SAP FI S/4HANA Accounting
+Accenture
+Gurugram(DDC5F)
+8
+Work Mode: RTO | Budget: Open
+Budget
+40
+186544-1
+SAP PO/PI & APIs Development
+Accenture
+Gurugram(DDC5F)
+8(10 Yrs Exp
+Total)
+Work Mode: RTO | Budget: 3 Lakhs
+
+--- Page 27 ---
+41
+207725-1
+Veeva CRM
+Accenture
+Chennai(CDC2)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+42
+187291-1
+SAP TM Transportation Management
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.70
+Lakhs
+43
+187643-1
+SAP Flexible Real Estate Management (RE-FX)
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+44
+187686-1
+SAP Project System (PS)
+Accenture
+Bhilai, Chattishgarh
+10
+Work Mode: RTO | Budget: 1.25
+Lakhs
+45
+IDEX-20260923-01
+Intershop Backend Developer
+IDexcel
+Pune
+4.5 Years
+Urgent Sourcing Requirement
+46
+LTTS-20260923-46
+SMS - Ignition – Digital Manufacturing / Dashboard - Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+47
+LTTS-20260923-47
+SMS - OT Platform - Engineer - Any Ltts Office
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+48
+LTTS-20260923-48
+– PMO (Customer Project Manager) - Pune
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+49
+LTTS-20260923-49
+– Structural Designer (S3D) - Chennai
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+50
+LTTS-20260923-50
+SP3D Checker for Vadodara
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+51
+LTTS-20260923-51
+Sr Hardware Design for Mumbai ( Airoli , Rabale ) , Pune
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+52
+LTTS-20260923-52
+CAESAR II - for Vadodara
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+53
+LTTS-20260923-53
+E Plan , SEE Control panel design for Pune , Chennai
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+54
+LTTS-20260923-54
+TEKLA Modeler & Detailer , Vadodara
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+55
+LTTS-20260923-55
+EMB - Automotive Hardware Engineer for Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+56
+LTTS-20260923-56
+EMB - Embedded Software Engineer (Ethernet: 10Base-T1S)
+for Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+57
+LTTS-20260923-57
+EMB - Software Engineer for Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+58
+LTTS-20260923-58
+EMB - Firmware Engineer for Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+59
+LTTS-20260923-59
+EMB - Test Engineer – Ethernet - Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+60
+LTTS-20260923-60
+EMB - Instrument Panel Cluster Testing Engineer - Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+
+--- Page 28 ---
+61
+LTTS-20260923-61
+EMB - Instrument Panel Cluster Testing Engineer - Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+62
+LTTS-20260923-62
+Schedule : UI/UX  Designer _Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Arundhati
+Shivashankarappa Rudagi
+(Arundhati.Rudagi_ext@Ltts.com)
+63
+DLTJP00059663
+Intershop Backend Developer
+IDexcel
+Pune
+4.5 Years
+Urgent Sourcing Requirement
+
+--- Page 29 ---
+Thursday, September 24, 2026
+Total Requirements Received: 54
+#
+Requirement ID
+Job Title / Role
+Client
+Location
+Exp Level
+Additional Details
+1
+IDEX-20260924-01
+Intershop Backend Developer
+IDexcel
+Pune
+4.5 Years
+Urgent Sourcing Requirement
+2
+208210-1
+SAP EWM
+Accenture
+Bangalore(BDC14)
+8
+Work Mode: RTO | Budget: 3.60
+Lakhs
+3
+208270-1
+SAP ABAP Development for HANA
+Accenture
+Bangalore(BDC14)
+8
+Work Mode: RTO | Budget: 2.40
+Lakhs
+4
+208277-1
+SAP ABAP Development for HANA
+Accenture
+Bangalore(BDC14)
+8
+Work Mode: RTO | Budget: 2.40
+Lakhs
+5
+205424-1
+ServiceNow IT Service Management (ITSM)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 1.36
+Lakhs
+6
+205415-1
+ServiceNow IT Service Management (ITSM)
+Accenture
+Bangalore(BDC14)
+10
+Work Mode: RTO | Budget: 1.10
+Lakhs
+7
+200134-1
+SAP Fieldglass Contingent Workforce
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 3.50
+Lakhs
+8
+199198-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+9
+198316-1
+SAP for Utilities Energy Data Management Device Management
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+10
+206983-1
+SAP SuccessFactors Compensation
+Accenture
+Bangalore(BDC11)
+10
+Work Mode: RTO | Budget: Open
+Budget
+11
+Request-ID
+Skills - Name
+Accenture
+Location Flex
+Equivalent Grade
+Work Mode: RTO/Hybrid/WFH |
+Budget: Budget/monthly
+12
+196401-1
+ServiceNow Human Resource Service Delivery (HRSD)
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 2.10
+Lakhs
+13
+195398-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 279,067
+14
+174902-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+8
+Work Mode: RTO | Budget: 3.20
+Lakhs
+15
+198381-1
+SAP for Utilities Cust Financial Mgt FICA
+Accenture
+PAN India
+10
+Work Mode: Hybrid | Budget: 2.30
+Lakhs
+16
+198326-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+10(5+ Yrs total)
+Work Mode: RTO | Budget: 1.60
+Lakhs
+17
+198377-1
+SAP for Utilities Billing
+Accenture
+PAN India
+10
+Work Mode: Hybrid | Budget: 2.30
+Lakhs
+18
+199199-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+19
+200968-1
+SAP CO Management Accounting
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+
+--- Page 30 ---
+20
+201319-1
+SAP SCM APO Advanced Planning & Optimization
+Accenture
+Kolkata(KDC1)
+9
+Work Mode: RTO | Budget: 2.10
+Lakhs
+21
+202411-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: Open
+Budget
+22
+203502-1
+SAP Manufacturing Integration & Intelligence (MII)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+23
+203421-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Bangalore(BDC11)
+6(14+ Yrs Exp)
+Work Mode: RTO | Budget: 3.20
+Lakhs
+24
+203484-1
+SAP Document and Reporting Compliance
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.45
+Lakhs
+25
+203483-1
+Salesforce Omnistudio Platform
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.79
+Lakhs
+26
+203501-1
+Embedded C++
+Accenture
+PAN India
+10
+Work Mode: RTO | Budget: 2.45
+Lakhs
+27
+203486-1
+Embedded C++
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.80
+Lakhs
+28
+203489-1
+Embedded C++
+Accenture
+Bangalore(BDC-7)
+10
+Work Mode: RTO | Budget: 2.45
+Lakhs
+29
+204307-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+30
+203146-1
+SAP HANA DB Administration
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 1.65
+Lakhs
+31
+204617-1
+SAP FI S/4HANA Accounting
+Accenture
+Chennai(CDC2)
+9
+Work Mode: RTO | Budget: 245,700
+32
+204501-1
+SAP SuccessFactors Employee Central Payroll
+Accenture
+Pune(PDC-3)
+8
+Work Mode: RTO | Budget: 3 Lakhs
+33
+205118-1
+SAP CO Management Accounting
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 279,067
+34
+206291-1
+SAP FI S/4HANA Accounting
+Accenture
+Gurugram(DDC5F)
+8
+Work Mode: RTO | Budget: Open
+Budget
+35
+186544-1
+SAP PO/PI & APIs Development
+Accenture
+Gurugram(DDC5F)
+8(10 Yrs Exp
+Total)
+Work Mode: RTO | Budget: 3 Lakhs
+36
+207725-1
+Veeva CRM
+Accenture
+Chennai(CDC2)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+37
+187291-1
+SAP TM Transportation Management
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.70
+Lakhs
+38
+187643-1
+SAP Flexible Real Estate Management (RE-FX)
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+39
+187686-1
+SAP Project System (PS)
+Accenture
+Bhilai, Chattishgarh
+10
+Work Mode: RTO | Budget: 1.25
+Lakhs
+40
+187653-1
+SAP S/4HANA Advanced Available to Promise
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+
+--- Page 31 ---
+41
+187663-1
+SAP CO Management Accounting
+Accenture
+Bhilai, Chattishgarh
+8
+Work Mode: RTO | Budget: 1.75
+Lakhs
+42
+187654-1
+SAP S/4HANA Advanced Available to Promise
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+43
+187657-1
+SAP TM Transportation Management
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+44
+187664-1
+SAP CO Management Accounting
+Accenture
+Bhilai, Chattishgarh
+8
+Work Mode: RTO | Budget: 1.75
+Lakhs
+45
+188848-1
+SAP FI S/4HANA Accounting
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+46
+187655-1
+SAP S/4HANA Embedded Production Planning and Detailed
+Scheduling (EPPDS)
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+47
+187651-1
+SAP Quality Management (QM)
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1 Lakhs
+48
+187638-1
+SAP Ariba Cloud Integration Gateway (CIG)
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+49
+187648-1
+SAP FSCM Treasury and Risk Management (TRM)
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+50
+LTTS-20260924-50
+SAI-Senior InstallShield / Windows Installer Engineer-Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+51
+LTTS-20260924-51
+MedTech - System Engineer (DHF Remediation) - Pune
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+52
+LTTS-20260924-52
+EMB - PCB Design (Automotive) with Siemens Xpedition ECAD
+- Bangalore, Chennai, Hyderabad
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+53
+LTTS-20260924-53
+SMS -EAM Engineer - Chennai
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+54
+DLTJP00059663
+Intershop Backend Developer
+IDexcel
+Pune
+4.5 Years
+Urgent Sourcing Requirement
+
+--- Page 32 ---
+Friday, September 25, 2026
+Total Requirements Received: 52
+#
+Requirement ID
+Job Title / Role
+Client
+Location
+Exp Level
+Additional Details
+1
+LTTS-20260925-01
+Mechanical Discipline Engineering for Vadodara
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+2
+LTTS-20260925-02
+Electrical & Instrumentation Discipline Engg for Vadodara
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+3
+LTTS-20260925-03
+Mould Design & Engg - Composite Material for Chennai
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+4
+LTTS-20260925-04
+Lead Analyst - SAP S/4 HANA EAM for Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+5
+LTTS-20260925-05
+Senior Analyst- SAP S/4 HANA EAM for Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+6
+LTTS-20260925-06
+Senior Analyst- SAP S/4 HANA EAM/QM for Bangalore
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+7
+208707-1
+SAP BTP Application Development
+Accenture
+Gurugram(DDC5F)
+11
+Work Mode: RTO | Budget: 1.50
+Lakhs
+8
+208210-1
+SAP EWM
+Accenture
+Bangalore(BDC14)
+8
+Work Mode: RTO | Budget: 3.60
+Lakhs
+9
+208270-1
+SAP ABAP Development for HANA
+Accenture
+Bangalore(BDC14)
+8
+Work Mode: RTO | Budget: 2.40
+Lakhs
+10
+208277-1
+SAP ABAP Development for HANA
+Accenture
+Bangalore(BDC14)
+8
+Work Mode: RTO | Budget: 2.40
+Lakhs
+11
+Request-ID
+Skills - Name
+Accenture
+Location Flex
+Equivalent Grade
+Work Mode: RTO/Hybrid/WFH |
+Budget: Budget/monthly
+12
+195398-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 279,067
+13
+174902-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+8
+Work Mode: RTO | Budget: 3.20
+Lakhs
+14
+198381-1
+SAP for Utilities Cust Financial Mgt FICA
+Accenture
+PAN India
+10
+Work Mode: Hybrid | Budget: 2.30
+Lakhs
+15
+198326-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+10(5+ Yrs total)
+Work Mode: RTO | Budget: 1.60
+Lakhs
+16
+198377-1
+SAP for Utilities Billing
+Accenture
+PAN India
+10
+Work Mode: Hybrid | Budget: 2.30
+Lakhs
+17
+199199-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+18
+200134-1
+SAP Fieldglass Contingent Workforce
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 3.50
+Lakhs
+19
+200968-1
+SAP CO Management Accounting
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+
+--- Page 33 ---
+20
+201319-1
+SAP SCM APO Advanced Planning & Optimization
+Accenture
+Kolkata(KDC1)
+9
+Work Mode: RTO | Budget: 2.10
+Lakhs
+21
+202411-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: Open
+Budget
+22
+203502-1
+SAP Manufacturing Integration & Intelligence (MII)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+23
+203421-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Bangalore(BDC11)
+6(14+ Yrs Exp)
+Work Mode: RTO | Budget: 3.20
+Lakhs
+24
+203484-1
+SAP Document and Reporting Compliance
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.45
+Lakhs
+25
+203483-1
+Salesforce Omnistudio Platform
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.79
+Lakhs
+26
+203486-1
+Embedded C++
+Accenture
+PAN India
+9
+Work Mode: RTO | Budget: 2.80
+Lakhs
+27
+203489-1
+Embedded C++
+Accenture
+PAN India
+10
+Work Mode: RTO | Budget: 2.45
+Lakhs
+28
+204307-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+29
+203146-1
+SAP HANA DB Administration
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 1.65
+Lakhs
+30
+204617-1
+SAP FI S/4HANA Accounting
+Accenture
+Chennai(CDC2)
+9
+Work Mode: RTO | Budget: 245,700
+31
+205118-1
+SAP CO Management Accounting
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 279,067
+32
+206291-1
+SAP FI S/4HANA Accounting
+Accenture
+Gurugram(DDC5F)
+8
+Work Mode: RTO | Budget: Open
+Budget
+33
+186544-1
+SAP PO/PI & APIs Development
+Accenture
+Gurugram(DDC5F)
+8(10 Yrs Exp
+Total)
+Work Mode: RTO | Budget: 3 Lakhs
+34
+206983-1
+SAP SuccessFactors Compensation
+Accenture
+Bangalore(BDC11)
+10
+Work Mode: RTO | Budget: Open
+Budget
+35
+207725-1
+Veeva CRM
+Accenture
+Chennai(CDC2)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+36
+187291-1
+SAP TM Transportation Management
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.70
+Lakhs
+37
+187643-1
+SAP Flexible Real Estate Management (RE-FX)
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+38
+187686-1
+SAP Project System (PS)
+Accenture
+Bhilai, Chattishgarh
+10
+Work Mode: RTO | Budget: 1.25
+Lakhs
+39
+187653-1
+SAP S/4HANA Advanced Available to Promise
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+40
+187663-1
+SAP CO Management Accounting
+Accenture
+Bhilai, Chattishgarh
+8
+Work Mode: RTO | Budget: 1.75
+Lakhs
+
+--- Page 34 ---
+41
+187654-1
+SAP S/4HANA Advanced Available to Promise
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+42
+187657-1
+SAP TM Transportation Management
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+43
+187664-1
+SAP CO Management Accounting
+Accenture
+Bhilai, Chattishgarh
+8
+Work Mode: RTO | Budget: 1.75
+Lakhs
+44
+188848-1
+SAP FI S/4HANA Accounting
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+45
+187655-1
+SAP S/4HANA Embedded Production Planning and Detailed
+Scheduling (EPPDS)
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+46
+187651-1
+SAP Quality Management (QM)
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1 Lakhs
+47
+187638-1
+SAP Ariba Cloud Integration Gateway (CIG)
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+48
+187648-1
+SAP FSCM Treasury and Risk Management (TRM)
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+49
+LTTS-20260925-49
+EMB - Senior Embedded Test Engineer for Pune
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+50
+LTTS-20260925-50
+EMB- DHF remediation for Pune
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+51
+LTTS-20260925-51
+MEH -Durability CAE Specialist - Vadodara
+LTTS
+As per JD / Specific Office
+As per JD
+Sender: Kallol Chakraborty
+(Kallol.Chakraborty@Ltts.com)
+52
+IDEX-20260925-01
+Intershop Backend Developer
+IDexcel
+Pune
+4.5 Years
+Urgent Sourcing Requirement
+Saturday, September 26, 2026
+Total Requirements Received: 0
+No requirements received on this date.
+Sunday, September 27, 2026
+Total Requirements Received: 0
+No requirements received on this date.
+
+--- Page 35 ---
+Monday, September 28, 2026
+Total Requirements Received: 41
+#
+Requirement ID
+Job Title / Role
+Client
+Location
+Exp Level
+Additional Details
+1
+DLTJP00059663
+Intershop Backend Developer
+IDexcel
+Pune
+4.5 Years
+Urgent Sourcing Requirement
+2
+Request-ID
+Skills - Name
+Accenture
+Location Flex
+Equivalent Grade
+Work Mode: RTO/Hybrid/WFH |
+Budget: Budget/monthly
+3
+195398-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget:
+279067(Budget Flex)
+4
+174902-1
+SoC Verification
+Accenture
+Bangalore(BDC6F)
+8
+Work Mode: RTO | Budget: 3.20
+Lakhs(Budget Flex)
+5
+198381-1
+SAP for Utilities Cust Financial Mgt FICA
+Accenture
+PAN India
+10
+Work Mode: Hybrid | Budget: 2.30
+Lakhs(Budget Flex)
+6
+198326-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+10(5+ Yrs total)
+Work Mode: RTO | Budget: 1.60
+Lakhs
+7
+198377-1
+SAP for Utilities Billing
+Accenture
+PAN India
+10
+Work Mode: Hybrid | Budget: 2.30
+Lakhs(Budget Flex)
+8
+188662-1
+SAP PO/PI & APIs Development
+Accenture
+Gurugram(DDC5F)
+11
+Work Mode: RTO | Budget:
+1,00,000
+9
+199199-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+10
+200134-1
+SAP Fieldglass Contingent Workforce
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: 3.50
+Lakhs
+11
+200968-1
+SAP CO Management Accounting
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+12
+201319-1
+SAP SCM APO Advanced Planning & Optimization
+Accenture
+Kolkata(KDC1)
+9
+Work Mode: RTO | Budget: 2.10
+Lakhs
+13
+202411-1
+Servicenow Tools Administration
+Accenture
+Bangalore(BDC-7)
+8
+Work Mode: RTO | Budget: Open
+Budget
+14
+203502-1
+SAP Manufacturing Integration & Intelligence (MII)
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+15
+203421-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Bangalore(BDC11)
+6(14+ Yrs Exp)
+Work Mode: RTO | Budget: 3.20
+Lakhs
+16
+203484-1
+SAP Document and Reporting Compliance
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.45
+Lakhs
+17
+203483-1
+Salesforce Omnistudio Platform
+Accenture
+Bangalore(BDC-7)
+9
+Work Mode: RTO | Budget: 2.79
+Lakhs
+18
+203486-1
+Embedded C++
+Accenture
+PAN India
+9
+Work Mode: RTO | Budget: 2.80
+Lakhs(Budget Flex)
+19
+203489-1
+Embedded C++
+Accenture
+PAN India
+10
+Work Mode: RTO | Budget: 2.45
+Lakhs(Budget Flex)
+
+--- Page 36 ---
+20
+204307-1
+SAP Profitability & Performance Mgt PaPM
+Accenture
+Pune(PDC-3)
+9
+Work Mode: RTO | Budget: 2.50
+Lakhs
+21
+203146-1
+SAP HANA DB Administration
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 1.65
+Lakhs
+22
+204241-1
+ServiceNow IT Service Management (ITSM)
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+23
+204237-1
+ServiceNow IT Service Management (ITSM)
+Accenture
+Bangalore(BDC6F)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+24
+204617-1
+SAP FI S/4HANA Accounting
+Accenture
+Chennai(CDC2)
+9
+Work Mode: RTO | Budget:
+245700(Budget Flex)
+25
+205118-1
+SAP CO Management Accounting
+Accenture
+Mumbai(MDC-5)
+9
+Work Mode: RTO | Budget:
+279067(Budget Flex)
+26
+206291-1
+SAP FI S/4HANA Accounting
+Accenture
+Gurugram(DDC5F)
+8
+Work Mode: RTO | Budget: Open
+Budget
+27
+186544-1
+SAP PO/PI & APIs Development
+Accenture
+Gurugram(DDC5F)
+8(10 Yrs Exp
+Total)
+Work Mode: RTO | Budget: 3
+Lakhs(Budget Flex)
+28
+207725-1
+Veeva CRM
+Accenture
+Chennai(CDC2)
+9
+Work Mode: RTO | Budget: 2.17
+Lakhs
+29
+187291-1
+SAP TM Transportation Management
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.70
+Lakhs
+30
+187643-1
+SAP Flexible Real Estate Management (RE-FX)
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+31
+187686-1
+SAP Project System (PS)
+Accenture
+Bhilai, Chattishgarh
+10
+Work Mode: RTO | Budget: 1.25
+Lakhs(Budget Flex)
+32
+187653-1
+SAP S/4HANA Advanced Available to Promise
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+33
+187663-1
+SAP CO Management Accounting
+Accenture
+Bhilai, Chattishgarh
+8
+Work Mode: RTO | Budget: 1.75
+Lakhs
+34
+187654-1
+SAP S/4HANA Advanced Available to Promise
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+35
+187657-1
+SAP TM Transportation Management
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs(Budget Flex)
+36
+187664-1
+SAP CO Management Accounting
+Accenture
+Bhilai, Chattishgarh
+8
+Work Mode: RTO | Budget: 1.75
+Lakhs
+37
+188848-1
+SAP FI S/4HANA Accounting
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+38
+187655-1
+SAP S/4HANA Embedded Production Planning and Detailed
+Scheduling (EPPDS)
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+39
+187651-1
+SAP Quality Management (QM)
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1 Lakhs
+
+--- Page 37 ---
+40
+187638-1
+SAP Ariba Cloud Integration Gateway (CIG)
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+41
+187648-1
+SAP FSCM Treasury and Risk Management (TRM)
+Accenture
+Bhilai, Chattishgarh
+9
+Work Mode: RTO | Budget: 1.50
+Lakhs
+Tuesday, September 29, 2026
+Total Requirements Received: 0
+No requirements received on this date.
+Wednesday, September 30, 2026
+Total Requirements Received: 0
+No requirements received on this date.

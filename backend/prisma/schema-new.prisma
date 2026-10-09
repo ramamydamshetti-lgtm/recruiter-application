@@ -1,0 +1,217 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// Client Management
+model Client {
+  id                String   @id @default(cuid())
+  name              String
+  pocName           String   @map("poc_name")
+  pocEmail          String   @map("poc_email")
+  pocPhone          String?  @map("poc_phone")
+  industry          String?
+  location          String?
+  isActive          Boolean  @default(true) @map("is_active")
+  createdAt         DateTime @default(now()) @map("created_at")
+  updatedAt         DateTime @updatedAt @map("updated_at")
+  
+  // Relations
+  requirements       Requirement[]
+  submissions       Submission[]
+  
+  @@map("clients")
+}
+
+// Job Requirements (Client Demands)
+model Requirement {
+  id                String              @id @default(cuid())
+  requirementId      String              @unique @map("requirement_id") // REQ-2026-02-19-001
+  clientId          String              @map("client_id")
+  clientLeadPoc      String              @map("client_lead_poc")
+  clientPoc          String?             @map("client_poc")
+  roleTitle         String              @map("role_title")
+  location          String
+  experience        String?
+  noticePeriod       String?             @map("notice_period")
+  skills            String[]
+  technologies      String[]?
+  priority          RequirementPriority  @default(MEDIUM)
+  openPositions     Int?                @map("open_positions")
+  slaDays           Int                 @default(7) @map("sla_days")
+  submittingTo      String?             @map("submitting_to")
+  status            RequirementStatus   @default(OPEN)
+  assignment        RequirementAssignment @default(UNASSIGNED)
+  ownerId           String?             @map("owner_id")
+  assignedBy         String?             @map("assigned_by")
+  assignedRecruiters String[]             @map("assigned_recruiters")
+  submissionsCount   Int                 @default(0) @map("submissions_count")
+  isDeleted         Boolean             @default(false) @map("is_deleted")
+  deletedAt         DateTime?           @map("deleted_at")
+  createdAt         DateTime             @default(now()) @map("created_at")
+  updatedAt         DateTime             @updatedAt @map("updated_at")
+  updatedBy         String?             @map("updated_by")
+  
+  // Relations
+  client            Client               @relation(fields: [clientId], references: [id], onDelete: Cascade)
+  owner             User?                @relation(fields: [ownerId], references: [id])
+  assignments       RequirementAssignment[]
+  submissions       Submission[]
+  
+  @@map("requirements")
+}
+
+// Candidate Profiles
+model Candidate {
+  id                String   @id @default(cuid())
+  name              String
+  email             String   @unique
+  phone             String?
+  currentCompany    String?  @map("current_company")
+  experienceLabel   String?  @map("experience_label")
+  totalExperience   Int?     @map("total_experience")
+  skills            String[]
+  technologies      String[]?
+  education         String[]
+  preferredLocation String?  @map("preferred_location")
+  noticePeriod       String?  @map("notice_period")
+  currentSalary     String?  @map("current_salary")
+  expectedSalary     String?  @map("expected_salary")
+  resumeUrl         String?  @map("resume_url")
+  sourcePlatform    String?  @map("source_platform") // Naukri/LinkedIn/Internal/Referral
+  sourcePlatformId  String?  @map("source_platform_id") // External platform candidate ID
+  isActive          Boolean  @default(true) @map("is_active")
+  createdAt         DateTime @default(now()) @map("created_at")
+  updatedAt         DateTime @updatedAt @map("updated_at")
+  
+  // Relations
+  submissions       Submission[]
+  
+  @@map("candidates")
+}
+
+// Candidate Submissions to Client Requirements
+model Submission {
+  id                String              @id @default(cuid())
+  requirementId      String              @map("requirement_id")
+  candidateId        String              @map("candidate_id")
+  submittedBy        String              @map("submitted_by")
+  submittedOn        DateTime            @default(now()) @map("submitted_on")
+  status            SubmissionStatus     @default(SUBMITTED)
+  clientFeedback     String?             @map("client_feedback")
+  clientDecisionDate DateTime?           @map("client_decision_date")
+  interviewDate      DateTime?           @map("interview_date")
+  interviewLocation  String?             @map("interview_location")
+  interviewType      InterviewType?       @map("interview_type")
+  selectedDate       DateTime?           @map("selected_date")
+  rejectionReason    String?             @map("rejection_reason")
+  emailSent         Boolean             @default(false) @map("email_sent")
+  emailSentDate     DateTime?           @map("email_sent_date")
+  createdAt         DateTime             @default(now()) @map("created_at")
+  updatedAt         DateTime             @updatedAt @map("updated_at")
+  
+  // Relations
+  requirement       Requirement @relation(fields: [requirementId], references: [id], onDelete: Cascade)
+  candidate        Candidate  @relation(fields: [candidateId], references: [id], onDelete: Cascade)
+  submitter        User        @relation(fields: [submittedBy], references: [id])
+  
+  @@map("submissions")
+}
+
+// Requirement Assignment Tracking
+model RequirementAssignment {
+  id           String   @id @default(cuid())
+  requirementId String   @map("requirement_id")
+  recruiterId  String   @map("recruiter_id")
+  assignedBy   String   @map("assigned_by")
+  assignedOn   DateTime @default(now()) @map("assigned_on")
+  status       AssignmentStatus @default(ACTIVE)
+  notes        String?
+  createdAt     DateTime @default(now()) @map("created_at")
+  updatedAt     DateTime @updatedAt @map("updated_at")
+  
+  // Relations
+  requirement Requirement @relation(fields: [requirementId], references: [id], onDelete: Cascade)
+  recruiter  User        @relation(fields: [recruiterId], references: [id])
+  assigner   User        @relation(fields: [assignedBy], references: [id])
+  
+  @@map("requirement_assignments")
+}
+
+// Keep existing User model for authentication
+model User {
+  id                String             @id @default(cuid())
+  email             String             @unique
+  password          String
+  firstName         String
+  lastName          String
+  role              UserRole           @default(CANDIDATE)
+  avatar            String?
+  phone             String?
+  location          String?
+  bio               String?
+  isActive          Boolean            @default(true)
+  lastLoginAt       DateTime?
+  createdAt         DateTime           @default(now())
+  updatedAt         DateTime           @updatedAt
+  emailVerified     Boolean            @default(false)
+  
+  // Relations
+  requirementsOwned Requirement[]   @relation("RequirementOwner")
+  assignments       RequirementAssignment[]
+  submissions       Submission[]
+  
+  @@map("users")
+}
+
+// Enums for the new workflow
+enum RequirementPriority {
+  HIGH
+  MEDIUM
+  LOW
+}
+
+enum RequirementStatus {
+  OPEN
+  ASSIGNED
+  SUBMITTED
+  INTERVIEW
+  SELECTED
+  REJECTED
+  CLOSED
+}
+
+enum RequirementAssignment {
+  UNASSIGNED
+  ASSIGNED
+}
+
+enum SubmissionStatus {
+  SUBMITTED
+  INTERVIEW
+  SELECTED
+  REJECTED
+}
+
+enum InterviewType {
+  PHONE
+  VIDEO
+  ONSITE
+}
+
+enum AssignmentStatus {
+  ACTIVE
+  REVOKED
+  COMPLETED
+}
+
+enum UserRole {
+  ADMIN
+  RECRUITER
+  LEAD
+  CANDIDATE
+}

@@ -1,0 +1,36 @@
+From: N M, Srikanth <srikanth.n.m@accenture.com>
+Sent: Tuesday, January 6, 2026 01:44
+Subject: Request for Doability Assessment � New Contact Center Capability Enhancement
+
+Attached word file contains:
+Job Title: Tester � Contact Center IVR Testing
+Experience: 5�8 Years
+Domain: Contact Center / IVR / Java Applications
+
+About the Role:
+Experienced Tester with strong background in testing Java-based contact centre applications.
+Hands-on IVR testing including functional/regression/performance using JMeter, Cyara, and manual testing.
+
+Required Skills & Experience:
+- 5�8 years in Contact Center or IVR testing
+- Testing Java-based applications and backend integrations
+- Cyara for IVR automation
+- JMeter for load/performance testing
+- Manual testing and test case design
+- End-to-end call flow testing
+- SIP/call routing/CTI familiarity (plus)
+
+Additional context in email body:
+- 20+ demand requirements
+- DoAbility assessment requested
+- Share masked profiles for business screening
+- Supplier onboarding context
+
+Table footer hints:
+Skill | Market Pool for Contracting | Do ability (Yes/No) | Possibility of Hiring per month | Notice Period | Any Comments
+Request DoAbility- For Contact Center
+
+---
+From: Charlie Darwin <charlie@metaforgeit.com>
+Sent: Wednesday, February 25, 2026 1:14 PM
+Subject: Fw: Request for Doability Assessment � New Contact Center Capability Enhancement

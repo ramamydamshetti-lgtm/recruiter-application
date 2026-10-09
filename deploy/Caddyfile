@@ -1,0 +1,11 @@
+# HTTP only — no HTTPS redirect (recruiters use http://myapps.taskforge.com).
+# admin off = safe for manual: caddy run --config Caddyfile --adapter caddyfile
+
+{
+	admin off
+	auto_https off
+}
+
+http://myapps.taskforge.com, http://www.myapps.taskforge.com, http://192.168.1.10, http://192.168.1.168 {
+	reverse_proxy 127.0.0.1:3000
+}
